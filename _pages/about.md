@@ -1,19 +1,24 @@
 ---
 
-title: "About David Florian"
+title: "About Kira Grossman"
 
 ---
 
 ## Education
 
-David prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
+Kira is a Senior at Vanderbilt School of Engineering who is interested in careers in designing and building low-cost medical devices and sports media and marketing. In her free time, she is a captain on the Vanderbilt Spirit Team and enjoys hiking, baking, and the game Boggle.
 
-* University of Virginia
-  * BS Mathematics
+* George W. Hewlett High School
+* Vanderbilt University - Expected Graduation May 2025
   * BS Biomedical Engineering
-* Vanderbilt University
-  * PhD Biomedical Engineering
 
+## Work Experience
+* Amgen Scholars Program, *Reseasrch Intern*
+##### May 2024 - August 2024
+  * Conduct research with Dr. Nimmi Ramanujam at Duke University to determine the viability of using three fluorophores simultaneously to monitor breast tumor metabolism with fluorescent microscopy
+* STAR Center, *Intern*
+  * Assist at not-for-profit that creates and provides assistive technology and services to people with disabilities
+  
 ## Technical Skills
 
 David can operate a number of different computer controlled (CNC) fabrication tools to turn 3D models into real-life parts. David has experience with the following additive manufacturing technologies:
