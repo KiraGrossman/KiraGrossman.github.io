@@ -1,6 +1,6 @@
 ---
-title: "Large Format 3D Printer"
-excerpt: "A 1 kg/hr pellet extruder and 1 cubic meter build envelope for printing furniture."
+title: "Syringe Pump"
+excerpt: "A 3D printed motor powered container used for expelling liquid from syringes at various speeds programmed with Arduino code."
 header:
   image: /assets/img/LF3DP-Banner-2.jpg
   teaser: /assets/img/Large-Format-3D-Printer-Thumbnail.png
@@ -20,4 +20,42 @@ gallery:
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a438d5332e8cbad27e?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-{% include gallery caption="Large Format 3D Printer Gallery" %}
+# Off-the-Shelf Parts
+
+| Part | Quantity |
+| ----------- | ----------- |
+#| 250 mm lead screw with 2 mm pitch and 2 mm lead | 1 |
+| 250 mm Lead Screw with 2 mm pitch and 8 mm lead | 1 |
+| 1/4" x 8 mm Flexible Coupling | 1 |
+| 200 mm Linear Rod with 8 mm diameter | 1 |
+| LM8UU Linear bearing for 8 mm diameter rod | 1 |
+| 2040 Aluminum Extrusion 1' Length | 1 |
+| Nema 17 Stepper Motor | 1 |
+| MEAN WELL RQ-65D AC-DC Power Supply Quad Output 5V 12V 24V 4 Amp | 1 |
+| Arduino Uno | 1 |
+| A4988 Stepper Driver | 1 |
+| Small Breadboard | 1 |
+| Panel Mount Latching Push Buttons: On/Off | 1 |
+| Panel Mount Momentary Push Buttons | 2 |
+| Limit Switch | 1 |
+| RGB Common Cathode LED | 1 |
+| M5 T-Nut | 3 |
+| M5-0.8 x 8 mm Bolt | 6 |
+| M3-0.5 x 10 mm Bolt | 4 |
+| 8 mm Collar | 2 |
+| M4-0.7 x 3 mm Bolt | 2 |
+| M3-0.5 x 8 mm Bolt | 2 |
+| 8 mm Linear Rod Clamp | 2 |
+| F688-2RS Flanged Ball Bearing | 2 |
+| TR8 x 8 Nut | 1 |
+| Syringe | 2 |
+| Heat-Set Insert | 4 |
+
+#3D Printed Parts
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+{% include gallery caption="Syringe Pump Gallery" %}
