@@ -24,7 +24,7 @@ gallery:
 
 | Part | Quantity |
 | ----------- | ----------- |
-#| 250 mm lead screw with 2 mm pitch and 2 mm lead | 1 |
+| 250 mm lead screw with 2 mm pitch and 2 mm lead | 1 |
 | 250 mm Lead Screw with 2 mm pitch and 8 mm lead | 1 |
 | 1/4" x 8 mm Flexible Coupling | 1 |
 | 200 mm Linear Rod with 8 mm diameter | 1 |
