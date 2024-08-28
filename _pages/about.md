@@ -58,4 +58,4 @@ Digital Fabrication Tools:
 *["In vivo spectroscopy to concurrently characterize five metabolic and vascular endpoints relevant to aggressive breast cancer"](https://www.spiedigitallibrary.org/journals/biophotonics-discovery/volume-1/issue-2/025002/In-vivo-spectroscopy-to-concurrently-characterize-five-metabolic-and-vascular/10.1117/1.BIOS.1.2.025002.pdf)
   * *Research Acknowledgement*
 
-<img src="/assets/img/David_Headshot_web2.jpg" alt="David Florian" style="width:200px;"/>
+![Kira Grossman VUFB](/assets/img/SMJ04332.JPG)
