@@ -97,7 +97,7 @@ analytics:
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "assets/img/David_Headshot_web2.jpg"
+  avatar           : "/assets/img/Screenshot 2024-08-27 at 9.43.42 PM.png"
   bio              : "An engineer interested in building and bleeds black and gold #AnchorDown"
   location         : "Nashville, TN"
   links:
