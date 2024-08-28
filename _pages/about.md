@@ -13,8 +13,7 @@ Kira is interested in careers in designing and building low-cost medical devices
   * B.E. Biomedical Engineering
 
 ## Internships and Work Experience
-* **Amgen Scholars Program**, *Reseasrch Intern*
-  * May 2024 - August 2024
+* **Amgen Scholars Program**, *Reseasrch Intern* <div align="center">May 2024 - August 2024
   * Conduct research with Dr. Nimmi Ramanujam at Duke University to determine the viability of using three fluorophores simultaneously to monitor breast tumor metabolism with fluorescent microscopy
    
 * **STAR Center**, *Intern* 
