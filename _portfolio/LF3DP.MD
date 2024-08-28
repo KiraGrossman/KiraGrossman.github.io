@@ -55,7 +55,7 @@ gallery:
 
 | Part | Purpose |
 | ----------- | ----------- |
-| Enclosure Top and Bottom | Title |
+| Enclosure Top and Bottom | The enclosure contains breadboard, wires, Arduino, and power supply, making the syringe pump one portable unit. The enclosure also protects the internal components from damage if dropped. The top of the enclosure has grooves to house the aluminum extrusion. |
 | Carriage | Text |
 | End Support | Text |
 | Motor Mounting Plate | Text |
