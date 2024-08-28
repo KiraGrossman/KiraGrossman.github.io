@@ -51,11 +51,14 @@ gallery:
 | Syringe | 2 |
 | Heat-Set Insert | 4 |
 
-#3D Printed Parts
+# 3D Printed Parts
 
-| Syntax | Description |
+| Part | Purpose |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Enclosure Top and Bottom | Title |
+| Carriage | Text |
+| End Support | Text |
+| Motor Mounting Plate | Text |
+| Syringe Holder | Text |
 
 {% include gallery caption="Syringe Pump Gallery" %}
