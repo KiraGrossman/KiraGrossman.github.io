@@ -53,12 +53,14 @@ gallery:
 
 # 3D Printed Parts
 
+All parts were custom made to specifically fit the off-the-shelf parts and to execute the purposes of the syringe pump.  
+
 | Part | Purpose |
 | ----------- | ----------- |
-| Enclosure Top and Bottom | The enclosure contains breadboard, wires, Arduino, and power supply, making the syringe pump one portable unit. The enclosure also protects the internal components from damage if dropped. The top of the enclosure has grooves to house the aluminum extrusion. |
-| Carriage | Text |
-| End Support | Text |
-| Motor Mounting Plate | Text |
-| Syringe Holder | Text |
+| Enclosure Top and Bottom | The enclosure contains the breadboard, wires, Arduino, and power supply, making the syringe pump one portable unit. The enclosure also protects the internal components from damage if dropped. The top of the enclosure has grooves to house the aluminum extrusion. Attached to the side of the enclosure are the three buttons and LED light. |
+| Carriage | The carriage moves along the lead screw and linear rod linearly to compress the syringes. |
+| End Support | The end support holds the linear rod and lead screw in place. |
+| Motor Mounting Plate | The motor mounting plate holds the motor in place. |
+| Syringe Holder | The syringe holder holds the syringes in place and contains the limit switch. |
 
 {% include gallery caption="Syringe Pump Gallery" %}
