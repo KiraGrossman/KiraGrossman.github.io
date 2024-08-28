@@ -54,8 +54,8 @@ Digital Fabrication Tools:
 * “Identification of early brain neuroinflammatory and metabolic alterations in mice with drug-induced acute liver injury using a dual tracer microPET imaging”
   * *Co-Author*, Manuscript, in preparation, due 4th quarter 2024
 * "Fabrication of Endothelialized Capillary-like Microchannel Networks using Sacrificial Thermoresponsive Microfibers"
-  * *Co-Author*, Manuscript, in preparation, due 4th quarter 2024
-*["In vivo spectroscopy to concurrently characterize five metabolic and vascular endpoints relevant to aggressive breast cancer"](https://www.spiedigitallibrary.org/journals/biophotonics-discovery/volume-1/issue-2/025002/In-vivo-spectroscopy-to-concurrently-characterize-five-metabolic-and-vascular/10.1117/1.BIOS.1.2.025002.pdf)
+  * *Co-Author*, Manuscript, in preparation, due 2025
+* ["In vivo spectroscopy to concurrently characterize five metabolic and vascular endpoints relevant to aggressive breast cancer"](https://www.spiedigitallibrary.org/journals/biophotonics-discovery/volume-1/issue-2/025002/In-vivo-spectroscopy-to-concurrently-characterize-five-metabolic-and-vascular/10.1117/1.BIOS.1.2.025002.pdf)
   * *Research Acknowledgement*
 
 ![Kira Grossman VUFB](/assets/img/SMJ04332.JPG)
