@@ -2,8 +2,8 @@
 title: "Syringe Pump"
 excerpt: "A 3D printed motor powered container used for expelling liquid from syringes at various speeds programmed with Arduino code."
 header:
-  image: /assets/img/LF3DP-Banner-2.jpg
-  teaser: /assets/img/Large-Format-3D-Printer-Thumbnail.png
+  image: /assets/img/front_good.png
+  teaser: /assets/img/sp1.png
 gallery:
   - image_path: assets/img/sp1.png
   - image_path: assets/img/sp2.png
