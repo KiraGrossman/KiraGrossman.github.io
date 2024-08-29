@@ -13,9 +13,10 @@ gallery:
 
 # Features
 
-* **Massive Print Area: 1140 x 1200 x 1100 mm.** With a build envelop just shy of 4 feet in all dimensions, the LF3DP is capable of printing furniture and other large objects.
-* **High Volumetric Output Extruder: 1 kg/hr - 450 C.** This printer come standard with a MDPH2 extruder by Massive Dimension, which can extrude at a rate of 1 kg/hr. Unlike typical filament extruders, the MDPH2 uses a screw to convey and liquify plastic pellets before the molten material is pushed out of a large nozzle (1 to 5 mm extrusion diameter). Please note: This printer can also be configured for other high flow rate extruders, such as the Typhoon and Pulsar by Dyze Design.
-* **Affordable Pellet Feedstock** Pellets are the cheapest form of feedstock for any plastic-based manufacturing process. Save 50-75% of material costs by using pellets instead of spools of filament. Concentrated colorant can be added to the virgin material to achieve any color in the rainbow without requiring large amounts of storage. Recyled material can also be used for sustainable material printing.
+* **Adjustable Flow Rate** With a motor running on Arduino code, the flow rate of the pump can quickly and easily be changed to the desired rate. The pump is a motor powered device that can administer liquids with high accuracy. The use of an Arduino Uno also allows for endless possibilities to program the pump to execute different tasks.
+* **Two Syringe Capability** With a custom 3D printed syringe holder, the pump can expell liquid from two syringes simultaneously. The design also allows for the syringes to be changed quickly and easily, which promotes sterility and minimizes cross-contamination. 
+* **Affordable Parts** Syringe pumps are often very expensive. The pump created is made entirely of affordable off-the-shelf parts and 3D printed parts, reducing the cost of the pump. The pump can be manufactured at a low cost, allowing greater access of syringe pumps to low-resource areas.
+* **Convenient Buttons** The pump has three buttons: On/Off, Forwards, and Reverse. The On/Off button is pressed once and the motor moves the carriage forwards, compressing the syringes, until the limit switch is pressed which turns the motor off. The Forwards and Reverse buttons can be pressed and held to move the carriage either forwards to compress the syringes or in reverse, to put the carraige back in the starting position. An LED light changes color when the buttons are pressed to signify the status of the pump.
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a438d5332e8cbad27e?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
@@ -66,5 +67,12 @@ All parts were custom made to specifically fit the off-the-shelf parts and to ex
 # Arduino Code
 
 The syringe pump was programmed using an [Arduino code](/Syringe_Pump.ino). The code was used to run the motor, thus determining the flow rate of the syringe. The code also controlled the On/Off capabilities of the pump, the LED light, and the direction of movement of the carriage. 
+
+# Instructions for Use
+
+1. Upload the Arduino code with the desired flow rate to the Arduino Uno via a USB cable. Remove the cable when done.
+2. Plug the syringe pump into an outlet
+3. Insert a pre-filled syringe into the syringe holder while making sure that the carriage has been pulled back far enough to fit the syringe. The carriage can be moved manually by turning the coupler counterclockwise or by continuously pressing the red button. 
+4. Press and release the bigger black button. This will turn the motor clockwise continuously. The LED will turn green and the lead screw will turn, moving the carriage and pressing the plunger of the syringe. When the plunger reaches its end point, the carriage will hit a stop button which will stop the motion of the motor and turn the LED red. At this point, all of the liquid should be dispensed from the syringe and the user can repeat the operation steps for new syringes.
 
 {% include gallery caption="Syringe Pump Gallery" %}
