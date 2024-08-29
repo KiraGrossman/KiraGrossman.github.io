@@ -63,4 +63,8 @@ All parts were custom made to specifically fit the off-the-shelf parts and to ex
 | Motor Mounting Plate | The motor mounting plate holds the motor in place. |
 | Syringe Holder | The syringe holder holds the syringes in place and contains the limit switch. |
 
+# Arduino Code
+
+The syringe pump was programmed using an [Arduino code](/Syringe_Pump.ino). The code was used to run the motor, thus determining the flow rate of the syringe. The code also controlled the On/Off capabilities of the pump, the LED light, and the direction of movement of the carriage. 
+
 {% include gallery caption="Syringe Pump Gallery" %}
