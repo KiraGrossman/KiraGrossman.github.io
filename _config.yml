@@ -15,7 +15,7 @@ title                    : "Kira Grossman"
 title_separator          : "-"
 subtitle                 : "2024 Duke Amgen Scholar | Student at Vanderbilt University"
 name                     : &name "Kira Grossman" # &name is a YAML anchor which can be *referenced later
-description              : &description "Example website for class "
+description              : &description "Kira's Web Page"
 url                      : https://KiraGrossman.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : 
@@ -98,7 +98,7 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/img/Screenshot 2024-08-27 at 9.56.38 PM.png"
-  bio              : "An engineer interested in building and who bleeds black and gold #AnchorDown"
+  bio              : "An engineer interested in building who bleeds black and gold #AnchorDown"
   location         : "Nashville, TN"
   links:
     - label: "GitHub"
