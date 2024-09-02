@@ -50,7 +50,7 @@ gallery:
 | F688-2RS Flanged Ball Bearing | 2 |
 | TR8 x 8 Nut | 1 |
 | Syringe | 2 |
-| Heat-Set Insert | 4 |
+| Heat-Set Insert | 8 |
 
 # 3D Printed Parts
 
