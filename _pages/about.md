@@ -13,7 +13,7 @@ Kira is interested in careers in designing and building low-cost medical devices
   * B.E. Biomedical Engineering
 
 ## Internships and Work Experience
-* **Amgen Scholars Program**, *Reseasrch Intern*
+* **Amgen Scholars Program**, *Research Intern*
   * May 2024 - August 2024
   * Conduct research with Dr. Nimmi Ramanujam at Duke University to determine the viability of using three fluorophores simultaneously to monitor breast tumor metabolism with fluorescent microscopy
    
@@ -21,7 +21,7 @@ Kira is interested in careers in designing and building low-cost medical devices
   * January 2024 - May 2024
   * Assist at not-for-profit that creates and provides assistive technology and services to people with disabilities
     
-* **Vanderbilt University Biomedical Engineering Research**, *Reseasrch Assistant*
+* **Vanderbilt University Biomedical Engineering Research**, *Research Assistant*
   * January 2022 - January 2024
   * Conduct research and troubleshoot procedures with Dr. Leon Bellan to construct and image microcapillary channels for tissue engineering systems with embedded cells to produce thick tissue constructs that require vascularization for use in humans
    
