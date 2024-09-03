@@ -9,7 +9,7 @@ title: "About Kira Grossman"
 Kira is interested in careers in designing and building low-cost medical devices and sports media and marketing. In her free time, she is a captain on the Vanderbilt Spirit Team and enjoys hiking, baking, and the game Boggle.
 
 * George W. Hewlett High School
-* Vanderbilt University - Expected Graduation May 2025
+* Vanderbilt University - *Expected Graduation May 2025*
   * B.E. Biomedical Engineering
 
 ## Internships and Work Experience
@@ -35,6 +35,7 @@ Kira has learned numerous skills during her time at Vanderbilt, including:
 
 * MATLAB
 * Python
+* Fusion 360
 * AutoCAD
 * SolidWorks
 * Arduino
