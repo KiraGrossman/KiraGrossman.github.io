@@ -6,7 +6,7 @@ title: "About Kira Grossman"
 
 ## Education
 
-Kira is interested in careers in designing and building low-cost medical devices and sports media and marketing. In her free time, she is a captain on the Vanderbilt Spirit Team and enjoys hiking, baking, and the game Boggle.
+Kira is interested in careers in designing and building low-cost medical devices and in sports media and marketing. In her free time, she is a captain on the Vanderbilt Spirit Team and enjoys hiking, baking, and the game Boggle.
 
 * George W. Hewlett High School
 * Vanderbilt University - *Expected Graduation May 2025*
