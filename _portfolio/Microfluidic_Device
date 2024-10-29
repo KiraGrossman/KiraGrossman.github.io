@@ -2,7 +2,7 @@
 title: "Microfluidic Device"
 excerpt: "A 3D printed microfluidic device that uses pinched flow fractionation to separate particles."
 header:
-  image: /assets/img/front_good.png
+  image: /assets/img/PPF_device.jpg
   teaser: /assets/img/sp1.png
 gallery:
   - image_path: assets/img/sp1.png
