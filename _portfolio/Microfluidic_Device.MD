@@ -2,21 +2,17 @@
 title: "Microfluidic Device"
 excerpt: "A 3D printed microfluidic device that uses pinched flow fractionation to separate particles."
 header:
-  image: /assets/img/PPF_device.jpg
+  image: assets/img/PFF_Set_Up.jpg
   teaser: /assets/img/PPF_device.jpg
 gallery:
-  - image_path: assets/img/sp1.png
-  - image_path: assets/img/sp2.png
-  - image_path: assets/img/sp3.png
+  - image_path: assets/img/PFF_Mold_and_Device.jpg
+  - image_path: assets/img/PFF_mold.jpg
+  - image_path: assets/img/PFF.png
    
 ---
 
 # Device in Action
 Watch in real-time the particles be separated by size [here](https://youtu.be/7T2pOAr_oSM)!
-
-<a href="https://youtu.be/7T2pOAr_oSM
-" target="_blank"><img src="http://img.youtube.com/vi/7T2pOAr_oSM0.jpg" 
-alt="7T2pOAr_oSM" width="240" height="180" border="10" /></a>
 
 [![7T2pOAr_oSM](https://img.youtube.com/vi/7T2pOAr_oSM/0.jpg)](https://youtu.be/7T2pOAr_oSM)
 
@@ -30,7 +26,7 @@ alt="7T2pOAr_oSM" width="240" height="180" border="10" /></a>
 
 # CAD Model
 A mold for the device was created using stereolithography (SLA) 3D printing. High-temperature clear resin (Form 3+) was used for the mold. SLA printing was utilized in order to obtain the fine details necessary for a microfluidic device. 
-<iframe src="https://vanderbilt643.autodesk360.com/g/projects/20221005564305476/data/dXJuOmFkc2sud2lwcHJvZDpmcy5mb2xkZXI6Y28uLXdOMVNORDhRVUdqX2hqem1QVXV2UQ/dXJuOmFkc2sud2lwcHJvZDpkbS5saW5lYWdlOklvcEcxV2Q3UUctUmJucGtocHVVd1E/overviewmode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4aa3385128126c77e?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 # Off-the-Shelf Parts
 
@@ -46,9 +42,6 @@ All parts were custom made to specifically fit the off-the-shelf parts and to ex
 | Motor Mounting Plate | The motor mounting plate holds the motor in place. |
 | Syringe Holder | The syringe holder holds the syringes in place and contains the limit switch. |
 
-# Arduino Code
-
-The syringe pump was programmed using an [Arduino code](/Syringe_Pump.ino). The code was used to run the motor, thus determining the flow rate of the syringe. The code also controlled the On/Off capabilities of the pump, the LED light, and the direction of movement of the carriage. 
 
 # Instructions for Use
 
