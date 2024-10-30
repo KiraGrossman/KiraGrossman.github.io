@@ -35,8 +35,8 @@ A mold for the device was created using stereolithography (SLA) 3D printing. Hig
 
  ![Selected Spefifications](/assets/img/PFF_Drawing.jpg)
 
-|                   | Reasoning |
-| :---------------: | :-------: | 
+|                   | Rationale |
+| ----------------- | ------- | 
 | Broadened Segment |  |
 | Pinched Segment   |  |
 | Input Channels    |  |
