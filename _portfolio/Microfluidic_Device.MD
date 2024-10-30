@@ -32,7 +32,7 @@ A mold for the device was created using stereolithography (SLA) 3D printing. Hig
 
 * **Calculations**
 * **Selected Specifications**
- ![Selected Spefifications](assets/img/PFF_Drawing.png)
+ ![Selected Spefifications](PFF_Drawing.png)
 
 |                   | Reasoning |
 | :---------------: | :-------: | 
