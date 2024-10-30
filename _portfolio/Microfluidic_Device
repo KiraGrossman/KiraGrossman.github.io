@@ -11,7 +11,15 @@ gallery:
    
 ---
 
-#Features
+# Device in Action
+Watch in real-time the particles be separated by size [here](https://youtu.be/7T2pOAr_oSM)!
+
+<a href="https://youtu.be/7T2pOAr_oSM
+" target="_blank"><img src="http://img.youtube.com/vi/https://youtu.be/7T2pOAr_oSM/0.jpg" 
+alt="/assets/img/PPF_device.jpg" width="240" height="180" border="10" /></a>
+
+
+# Features
 
 * **Adjustable Flow Rate** With a motor running on Arduino code, the flow rate of the pump can quickly and easily be changed to the desired rate. The pump is a motor powered device that can administer liquids with high accuracy. The use of an Arduino Uno also allows for endless possibilities to program the pump to execute different tasks.
 * **Two Syringe Capability** With a custom 3D printed syringe holder, the pump can expel liquid from two syringes simultaneously. The design also allows for the syringes to be changed quickly and easily, which promotes sterility and minimizes cross-contamination. 
