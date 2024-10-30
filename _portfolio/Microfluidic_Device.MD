@@ -15,8 +15,10 @@ gallery:
 Watch in real-time the particles be separated by size [here](https://youtu.be/7T2pOAr_oSM)!
 
 <a href="https://youtu.be/7T2pOAr_oSM
-" target="_blank"><img src="http://img.youtube.com/vi/https://youtu.be/7T2pOAr_oSM/0.jpg" 
-alt="/assets/img/PPF_device.jpg" width="240" height="180" border="10" /></a>
+" target="_blank"><img src="http://img.youtube.com/vi/7T2pOAr_oSM0.jpg" 
+alt="7T2pOAr_oSM" width="240" height="180" border="10" /></a>
+
+[![7T2pOAr_oSM](https://img.youtube.com/vi/7T2pOAr_oSM/0.jpg)](https://youtu.be/7T2pOAr_oSM)
 
 
 # Features
@@ -26,38 +28,11 @@ alt="/assets/img/PPF_device.jpg" width="240" height="180" border="10" /></a>
 * **Affordable Parts** Syringe pumps are often very expensive. The pump created is made entirely of affordable off-the-shelf parts and 3D printed parts, reducing the cost of the pump. The pump can be manufactured at a low cost, allowing greater access of syringe pumps to low-resource areas.
 * **Convenient Buttons** The pump has three buttons: On/Off, Forwards, and Reverse. The On/Off button is pressed once and the motor moves the carriage forwards, compressing the syringes, until the limit switch is pressed which turns the motor off. The Forwards and Reverse buttons can be pressed and held to move the carriage either forwards to compress the syringes or in reverse, to put the carriage back in the starting position. An LED light changes color when the buttons are pressed to signify the status of the pump.
 
-#CAD Model
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a438d5332e8cbad27e?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+# CAD Model
+A mold for the device was created using stereolithography (SLA) 3D printing. High-temperature clear resin (Form 3+) was used for the mold. SLA printing was utilized in order to obtain the fine details necessary for a microfluidic device. 
+<iframe src="https://vanderbilt643.autodesk360.com/g/projects/20221005564305476/data/dXJuOmFkc2sud2lwcHJvZDpmcy5mb2xkZXI6Y28uLXdOMVNORDhRVUdqX2hqem1QVXV2UQ/dXJuOmFkc2sud2lwcHJvZDpkbS5saW5lYWdlOklvcEcxV2Q3UUctUmJucGtocHVVd1E/overviewmode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-#Off-the-Shelf Parts
-
-| Part | Quantity |
-| ----------- | ----------- |
-| 250 mm Lead Screw with 2 mm pitch and 8 mm lead | 1 |
-| 1/4" x 8 mm Flexible Coupling | 1 |
-| 200 mm Linear Rod with 8 mm diameter | 1 |
-| LM8UU Linear bearing for 8 mm diameter rod | 1 |
-| 2040 Aluminum Extrusion 1' Length | 1 |
-| Nema 17 Stepper Motor | 1 |
-| MEAN WELL RQ-65D AC-DC Power Supply Quad Output 5V 12V 24V 4 Amp | 1 |
-| Arduino Uno | 1 |
-| A4988 Stepper Driver | 1 |
-| Small Breadboard | 1 |
-| Panel Mount Latching Push Buttons: On/Off | 1 |
-| Panel Mount Momentary Push Buttons | 2 |
-| Limit Switch | 1 |
-| RGB Common Cathode LED | 1 |
-| M5 T-Nut | 3 |
-| M5-0.8 x 8 mm Bolt | 6 |
-| M3-0.5 x 10 mm Bolt | 4 |
-| 8 mm Collar | 2 |
-| M4-0.7 x 3 mm Bolt | 2 |
-| M3-0.5 x 8 mm Bolt | 2 |
-| 8 mm Linear Rod Clamp | 2 |
-| F688-2RS Flanged Ball Bearing | 2 |
-| TR8 x 8 Nut | 1 |
-| Syringe | 2 |
-| Heat-Set Insert | 8 |
+# Off-the-Shelf Parts
 
 # 3D Printed Parts
 
