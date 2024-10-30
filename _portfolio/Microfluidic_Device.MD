@@ -32,7 +32,8 @@ A mold for the device was created using stereolithography (SLA) 3D printing. Hig
 
 * **Calculations**
 * **Selected Specifications**
- ![Selected Spefifications](PFF_Drawing.png)
+
+ ![Selected Spefifications](assets/img/PFF_Drawing.jpg)
 
 |                   | Reasoning |
 | :---------------: | :-------: | 
@@ -49,4 +50,4 @@ A mold for the device was created using stereolithography (SLA) 3D printing. Hig
 3. Insert a pre-filled syringe into the syringe holder while making sure that the carriage has been pulled back far enough to fit the syringe. The carriage can be moved manually by turning the coupler counterclockwise or by continuously pressing the red button. 
 4. Press and release the bigger black button. This will turn the motor clockwise continuously. The LED will turn green and the lead screw will turn, moving the carriage and pressing the plunger of the syringe. When the plunger reaches its end point, the carriage will hit a stop button which will stop the motion of the motor and turn the LED red. At this point, all of the liquid should be dispensed from the syringe and the user can repeat the operation steps for new syringes.
 
-{% include gallery caption="Microfluidics Device Gallery. (Left: Mold and PFF device. Center: Resin printed mold of PFF device. Right: Particles flowing through PFF device" %}
+{% include gallery caption="Microfluidics Device Gallery. (Left: Mold and PFF device. Center: Resin printed mold of PFF device. Right: Particles flowing through PFF device)" %}
