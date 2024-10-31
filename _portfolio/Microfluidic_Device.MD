@@ -41,9 +41,9 @@ A mold for the device was created using stereolithography (SLA) 3D printing. Hig
 ## Calculations using the Particle End Position Equation
 
 ### **$W_p$ Calculations**
-  1. An aribitrary constant $W_B$ was chosen to determine the most effective $W_p$ for particle separation. 
+  1. An aribitrary constant $W_B$ was chosen to determine the most effective <img src="/assets/img/Wp.png" alt="Wp" width="25" height="20"> for particle separation. 
   2. Two different sized particles with constant, known, diameters $D_{max}$ = 550 µm and $D_{min}$ = 165 µm were used. 
-  3. Two equations were set up, one using $D_{max}$ and one using $D_{min}$. $W_p$ was varied in each equation, with the minimum $W_p = D_{max}$ as the segment cannot be smaller than the largest particle as the particle would not be able to flow through the channel. 
+  3. Two equations were set up, one using $D_{max}$ and one using $D_{min}$. $W_p$ was varied in each equation, with the minimum <img src="/assets/img/Wp.png" alt="Wp" width="25" height="20"> = $D_{max}$ as the segment cannot be smaller than the largest particle as the particle would not be able to flow through the channel. 
 
       a. $y_{max}=\frac{(W_p - \frac{550 µm}{2})W_B}{W_p}$
 
@@ -55,10 +55,10 @@ A mold for the device was created using stereolithography (SLA) 3D printing. Hig
 
   * **Rationale:** It is desired to have the largest difference between y values as that correlates to the largest amount of separation between the particles, making them easier to collect.
   * **Results:** As $W_p$ increased, the difference between y values decreased.
-  * **Conclusion:** The smallest possible $W_p$ should be used to obtain the largest possible distance between different sized particles. Thus, $W_p$ = 0.800 mm = 800 µm, as this was the smallest possible size that could be accurately printed by the resin printer without a print failure.
+  * **Conclusion:** The smallest possible <img src="/assets/img/Wp.png" alt="Wp" width="25" height="20"> should be used to obtain the largest possible distance between different sized particles. Thus, <img src="/assets/img/Wp.png" alt="Wp" width="25" height="20"> = 0.800 mm = 800 µm, as this was the smallest possible size that could be accurately printed by the resin printer without a print failure.
 
 ### **$W_B$ Calcuations**
-  1. Two y equations were set up using the newly determined $W_p$ value, and $D_{min}$ for one equation and $D_{max}$ for the other.
+  1. Two y equations were set up using the newly determined <img src="/assets/img/Wp.png" alt="Wp" width="25" height="20"> value, and $D_{min}$ for one equation and $D_{max}$ for the other.
 
       a. $y_{max}=\frac{(800 µm - \frac{550 µm}{2})W_B}{800 µm}$
 
