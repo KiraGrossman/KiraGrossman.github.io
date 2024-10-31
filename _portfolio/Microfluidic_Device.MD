@@ -52,7 +52,7 @@ A mold for the device was created using stereolithography (SLA) 3D printing. Hig
           
           Assumption: fill the entirety the volume of the device in 10 seconds
   
-          $Q_{particles}=\frac{\frac{V}{7}mL}{10s}\times \frac{60s}{1min} = 0.521 mL/min$
+        $Q_{particles}=\frac{\frac{V}{7}mL}{10s}\times \frac{60s}{1min} = 0.521 mL/min$
   
           $Q_{water}=\frac{\frac{V\times 6}{7}mL}{10s}\times \frac{60s}{1min} = 3.16 mL/min$
 
