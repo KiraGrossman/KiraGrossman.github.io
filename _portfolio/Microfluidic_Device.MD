@@ -28,23 +28,23 @@ Watch in real-time the particles be separated by size [here](https://youtu.be/7T
 A mold for the device was created using stereolithography (SLA) 3D printing. High-temperature clear resin (Form 3+) was used for the mold. SLA printing was utilized in order to obtain the fine details necessary for a microfluidic device. 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4aa3385128126c77e?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-# Calculations
-1. **End Particle Position**
+# Device Design
+**[Particle End Position Equation](https://pubs.acs.org/doi/10.1021/ac049863r)**
 
-      * $y=\frac{(W_p - \frac{D_p}{2})W_B}{W_p}$
-      * $W_p$ = width of pinched segment, $W_B$ = width of broadened segment, $D_p$ = particle diameter, y = distance particle with $D_p$ travels from centerline
+  * $y=\frac{(W_p - \frac{D_p}{2})W_B}{W_p}$
+  * $W_p$ = width of pinched segment, $W_B$ = width of broadened segment, $D_p$ = particle diameter, y = distance particle with $D_p$ travels from centerline
 
-      * **Set up for $W_p$ Analysis:**
-        1. An aribitrary constant $W_B$ was chosen to determine the most effective $W_p$ for particle separation. 
-        2. Two different sized particles with constant, known, diameters $D_{max}$ = 550 µm and $D_{min}$ = 165 µm were used. 
-        3. Two equations were set up, one using $D_{max}$ and one using $D_{min}$. $W_p$ was varied in each equation, with the minimum $W_p = D_{max}$ as the segment cannot be smaller than the largest particle as the particle would not be able to flow through the channel. 
-        4. The difference between y values was then calculated. 
-          * **Rationale:** It is desired to have the largest difference between y values as that correlates to the largest amount of separation between the particles, making them easier to collect.
-          * **Results:** as $W_p$ increased, the difference between y values decreased.
-          * **Conclusion:** the smallest possible $W_p$ should be used to obtain the largest possible distance between different sized particles. Thus, $W_p$ = 0.800 mm, as this was the smallest possible size that could be accurately printed by the resin printer without a print failure.
+**$W_p$ Calculations**
+  1. An aribitrary constant $W_B$ was chosen to determine the most effective $W_p$ for particle separation. 
+  2. Two different sized particles with constant, known, diameters $D_{max}$ = 550 µm and $D_{min}$ = 165 µm were used. 
+  3. Two equations were set up, one using $D_{max}$ and one using $D_{min}$. $W_p$ was varied in each equation, with the minimum $W_p = D_{max}$ as the segment cannot be smaller than the largest particle as the particle would not be able to flow through the channel. 
+  4. The difference between y values was then calculated. 
+    * **Rationale:** It is desired to have the largest difference between y values as that correlates to the largest amount of separation between the particles, making them easier to collect.
+    * **Results:** as $W_p$ increased, the difference between y values decreased.
+    * **Conclusion:** the smallest possible $W_p$ should be used to obtain the largest possible distance between different sized particles. Thus, $W_p$ = 0.800 mm, as this was the smallest possible size that could be accurately printed by the resin printer without a print failure.
 
       * **Set up for $W_B$ Analysis:**
-        1. Two y equations were set up using the newly determined $W_p$ value, and $D_{min}$ for one equation and $D{max}$ for the other.
+        1. Two y equations were set up using the newly determined $W_p$ value, and $D_{min}$ for one equation and $D_{max}$ for the other.
         2. $W_B$ was varied and the difference between y values was calculated.
         * **Rationale:** It is desired to have the largest difference between y values as that correlates to the largest amount of separation between the particles, making them easier to collect.
         * **Results:** as $W_B$ increased, the difference between y values increased.
