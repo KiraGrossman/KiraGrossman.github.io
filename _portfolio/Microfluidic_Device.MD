@@ -48,11 +48,11 @@ A mold for the device was created using stereolithography (SLA) 3D printing. Hig
 
       c. Determination of Flow Rates
 
-        Desired ratio of flow rates based on literature: $1Q_particles:6Q_water$
+        Desired ratio of flow rates based on literature: $1Q_{particles}:6Q_{water}$
 
-        $Q_{particles}=\frac{\frac{V}{7}}{10}\times 60$
+        $Q_{particles}=\frac{\frac{V}{7}}{10s}\times 60 min = 0.521 mL/min$
 
-        $Q_{water}=\frac{\frac{V\times 6}{7}}{10}\times 60$
+        $Q_{water}=\frac{\frac{V\times 6}{7}}{10s}\times 60 min = 3.16 mL/min$
 
 * **Selected Specifications**
 
