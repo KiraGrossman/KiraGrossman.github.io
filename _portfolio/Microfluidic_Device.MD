@@ -36,14 +36,23 @@ A mold for the device was created using stereolithography (SLA) 3D printing. Hig
       $y=\frac{(W_p - \frac{D_p}{2})W_B}{W_p}$
 
   2. Flow Rate
+      a. Volume Estimation
 
-      $Volume = length\times width\times height = 43.2 mm\times 17.8 mm\times 0.8 mm = 615.17 mm^3$
+        $Volume = length\times width\times height$
 
-      $1Q_particles:6Q_water$
+        $V= 43.2 mm\times 17.8 mm\times 0.8 mm = 615.17 mm^3$
 
-      $Q_water=\frac{(W_p - \frac{D_p}{2})W_B}{W_p}$
+      b. Conversion
 
-      $Q_particles=\frac{(W_p - \frac{D_p}{2})W_B}{W_p}$
+        $V = 615.17 mm^3 = 0.61517 cm^3 = 0.61517 mL$
+
+      c. Determination of Flow Rates
+
+        Desired ratio of flow rates based on literature: $1Q_particles:6Q_water$
+
+        $Q_{particles}=\frac{\frac{V}{7}}{10}\times 60$
+
+        $Q_{water}=\frac{\frac{V\times 6}{7}}{10}\times 60$
 
 * **Selected Specifications**
 
