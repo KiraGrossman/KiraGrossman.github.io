@@ -28,35 +28,32 @@ Watch in real-time the particles be separated by size [here](https://youtu.be/7T
 A mold for the device was created using stereolithography (SLA) 3D printing. High-temperature clear resin (Form 3+) was used for the mold. SLA printing was utilized in order to obtain the fine details necessary for a microfluidic device. 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4aa3385128126c77e?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-# Design and Flow Rate Calculations and Specifications
+# Calculations
+1. End Particle Position
 
-* **Calculations**
-  1. End Particle Position
+  $y=\frac{(W_p - \frac{D_p}{2})W_B}{W_p}$
 
-      $y=\frac{(W_p - \frac{D_p}{2})W_B}{W_p}$
+2. Flow Rate
 
-  2. Flow Rate
+  a. Volume Estimation
 
-      a. Volume Estimation
+    $Volume = length\times width\times height$  
 
-$Volume = length\times width\times height$  
-        $V= 43.2 mm\times 17.8 mm\times 0.8 mm = 615.17 mm^3$  
+    $V= 43.2 mm\times 17.8 mm\times 0.8 mm = 615.17 mm^3$  
 
+  b. Conversion  
 
-      b. Conversion  
+    $V = 615.17 mm^3 = 0.61517 cm^3 = 0.61517 mL$  
 
-        $V = 615.17 mm^3 = 0.61517 cm^3 = 0.61517 mL$  
+  c. Determination of Flow Rates  
 
-
-      c. Determination of Flow Rates  
-
-        Desired ratio of flow rates based on [literature](https://pubs.acs.org/doi/10.1021/ac049863r): $1Q_{particles}:6Q_{water}$
+    * Desired ratio of flow rates based on [literature](https://pubs.acs.org/doi/10.1021/ac049863r): $1Q_{particles}:6Q_{water}$
           
-        Assumption: fill the entirety the volume of the device in 10 seconds
+    * Assumption: fill the entirety the volume of the device in 10 seconds
   
-        $Q_{particles}=\frac{\frac{V}{7}mL}{10s}\times \frac{60s}{1min} = 0.521 mL/min$
+    $Q_{particles}=\frac{\frac{V}{7}mL}{10s}\times \frac{60s}{1min} = 0.521 mL/min$
   
-        $Q_{water}=\frac{\frac{V\times 6}{7}mL}{10s}\times \frac{60s}{1min} = 3.16 mL/min$
+    $Q_{water}=\frac{\frac{V\times 6}{7}mL}{10s}\times \frac{60s}{1min} = 3.16 mL/min$
 
 * **Selected Specifications**
 
