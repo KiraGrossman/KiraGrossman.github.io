@@ -34,16 +34,14 @@ A mold for the device was created using stereolithography (SLA) 3D printing. Hig
   * $y=\frac{(W_p - \frac{D_p}{2})W_B}{W_p}$
   * $W_p$ = width of pinched segment, $W_B$ = width of broadened segment, $D_p$ = particle diameter, y = distance particle with $D_p$ travels from centerline
 
-## **$W_p$ Calculations**
+### **$W_p$ Calculations**
   1. An aribitrary constant $W_B$ was chosen to determine the most effective $W_p$ for particle separation. 
   2. Two different sized particles with constant, known, diameters $D_{max}$ = 550 µm and $D_{min}$ = 165 µm were used. 
   3. Two equations were set up, one using $D_{max}$ and one using $D_{min}$. $W_p$ was varied in each equation, with the minimum $W_p = D_{max}$ as the segment cannot be smaller than the largest particle as the particle would not be able to flow through the channel. 
   4. The difference between y values was then calculated. 
 
     * **Rationale:** It is desired to have the largest difference between y values as that correlates to the largest amount of separation between the particles, making them easier to collect.
-
     * **Results:** as $W_p$ increased, the difference between y values decreased.
-
     * **Conclusion:** the smallest possible $W_p$ should be used to obtain the largest possible distance between different sized particles. Thus, $W_p$ = 0.800 mm, as this was the smallest possible size that could be accurately printed by the resin printer without a print failure.
 
 ### **$W_B$ Calcuations**
