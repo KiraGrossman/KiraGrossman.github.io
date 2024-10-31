@@ -38,8 +38,10 @@ A mold for the device was created using stereolithography (SLA) 3D printing. Hig
   1. An aribitrary constant $W_B$ was chosen to determine the most effective $W_p$ for particle separation. 
   2. Two different sized particles with constant, known, diameters $D_{max}$ = 550 µm and $D_{min}$ = 165 µm were used. 
   3. Two equations were set up, one using $D_{max}$ and one using $D_{min}$. $W_p$ was varied in each equation, with the minimum $W_p = D_{max}$ as the segment cannot be smaller than the largest particle as the particle would not be able to flow through the channel. 
+
     a. $y_{max}=\frac{(W_p - \frac{D_{max}}{2})W_B}{W_p}$
     b. $y_{min}=\frac{(W_p - \frac{D_{min}}{2})W_B}{W_p}$
+
   4. The difference between y values was then calculated. 
 
   * **Rationale:** It is desired to have the largest difference between y values as that correlates to the largest amount of separation between the particles, making them easier to collect.
