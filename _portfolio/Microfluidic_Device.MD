@@ -104,8 +104,10 @@ A mold for the device was created using stereolithography (SLA) 3D printing. Hig
 # Flow Rate Calculations
 
 1. Volume Estimation
+
 <img src="/assets/img/volume.png" alt="volume" width="350" height="290"> 
 2. Conversion 
+
 <img src="/assets/img/conversion.png" alt="conversion" width="350" height="290">
 3. Determination of Flow Rates  
     * Desired ratio of flow rates based on [literature](https://pubs.acs.org/doi/10.1021/ac049863r):  <img src="/assets/img/ratio.png" alt="ratio" width="150" height="90">
