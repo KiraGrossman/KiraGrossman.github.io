@@ -49,7 +49,7 @@ A mold for the device was created using stereolithography (SLA) 3D printing. Hig
 
   4. The difference between y values was then calculated. 
 
-<img src="/assets/img/delta_y.png" alt="delta_y" width="150" height="90">
+<img src="/assets/img/delta_y.png" alt="delta_y" width="250" height="190">
 
   * **Rationale:** It is desired to have the largest difference between y values as that correlates to the largest amount of separation between the particles, making them easier to collect.
   * **Results:** As <img src="/assets/img/Wp.png" alt="Wp" width="35" height="30"> increased, the difference between y values decreased.
@@ -60,18 +60,18 @@ A mold for the device was created using stereolithography (SLA) 3D printing. Hig
 
 <img src="/assets/img/WbVary.png" alt="WbVary" width="250" height="190">
 
-  2. <img src="/assets/img/Wb.png" alt="Wb" width="45" height="40"> was varied and the difference between y values was calculated.
+  2. <img src="/assets/img/Wb.png" alt="Wb" width="35" height="30"> was varied and the difference between y values was calculated.
 
   * **Rationale:** It is desired to have the largest difference between y values as that correlates to the largest amount of separation between the particles, making them easier to collect.
   * **Results:** as <img src="/assets/img/Wb.png" alt="Wb" width="35" height="30"> increased, the difference between y values increased.
   * **Conclusion:** the largest possible <img src="/assets/img/Wb.png" alt="Wb" width="35" height="30"> should be used to obtain the largest possible distance between different sized particles. Thus, <img src="/assets/img/Wb.png" alt="Wb" width="35" height="30"> = 17.8 mm, as this was the largest possible size that could be contained in the microfluidic device.
 
 ### Output Channel y Position
-  1. Divide <img src="/assets/img/Wb.png" alt="Wb" width="35" height="30"> = 17.8 mm by 2 to achieve the y position above the midline of the broadened segment. $<img src="/assets/img/Wb.png" alt="Wb" width="35" height="30"> = 8.9 mm = 8900 µm
+  1. Divide <img src="/assets/img/Wb.png" alt="Wb" width="35" height="30"> = 17.8 mm by 2 to achieve the y position above the midline of the broadened segment. <img src="/assets/img/Wb.png" alt="Wb" width="35" height="30"> = 8.9 mm = 8900 µm
 
   2. Plug in all variables to obtain the y value for the smallest particle and the y position for the largest particle. 
 
-<img src="/assets/img/ysl.png" alt="ysl" width="350" height="290">
+<img src="/assets/img/ysl.png" alt="ysl" width="450" height="390">
 
   3. Determine the midpoint between the two y positions
 
@@ -79,7 +79,7 @@ A mold for the device was created using stereolithography (SLA) 3D printing. Hig
 
   * **Rationale:** It is desired to have the separation point between the two channels that will collect the two different particles to be in between the two calculated y values. If the separation point is between the two numbers calculated above, the particles should flow into their respective channels, with room for discrepancies between particles. 
   * **Results:** The smallest particle should move 7.982 mm away from the midline towards the outer edge of the device and the largest particle should move 5.840 mm away from the midline towards the outer edge of the device. 
-  * **Conclusion:** Therefore, the two end channels sohuld be separated by a wall that begins at a point 7.00 mm away in the y direction from the midline. The smaller particles will flow into the topmost channel that ranges from y = 7 mm to y = 8.9 mm as 7 mm < <img src="/assets/img/ysmall.png" alt="ysmall" width="55" height="50"> < 8.9 mm. The larger particles will flow through the channel closer to the midline as the channel ranges from y = 0 to y = 7 and  0 mm < <img src="/assets/img/ylarge.png" alt="ylarge" width="55" height="50"> < 7 mm.
+  * **Conclusion:** Therefore, the two end channels sohuld be separated by a wall that begins at a point 7.00 mm away in the y direction from the midline. The smaller particles will flow into the topmost channel that ranges from y = 7 mm to y = 8.9 mm as 7 mm < <img src="/assets/img/ysmall.png" alt="ysmall" width="75" height="70"> < 8.9 mm. The larger particles will flow through the channel closer to the midline as the channel ranges from y = 0 to y = 7 and  0 mm < <img src="/assets/img/ylarge.png" alt="ylarge" width="75" height="70"> < 7 mm.
 
 ### Rationale for Selected Geometries
 
@@ -95,19 +95,18 @@ A mold for the device was created using stereolithography (SLA) 3D printing. Hig
 
 1. Volume Estimation
 
-<img src="/assets/img/volume.png" alt="volume" width="250" height="190"> 
+<img src="/assets/img/volume.png" alt="volume" width="350" height="290"> 
 
 2. Conversion 
-<img src="/assets/img/conversion.png" alt="conversion" width="250" height="190">
+
+<img src="/assets/img/conversion.png" alt="conversion" width="350" height="290">
 
 3. Determination of Flow Rates  
-    * Desired ratio of flow rates based on [literature](https://pubs.acs.org/doi/10.1021/ac049863r): 
-
-<img src="/assets/img/ratio.png" alt="ratio" width="150" height="90">
+    * Desired ratio of flow rates based on [literature](https://pubs.acs.org/doi/10.1021/ac049863r):  <img src="/assets/img/ratio.png" alt="ratio" width="150" height="90">
           
     * Assumption: fill the entirety the volume of the device in 10 seconds
   
-<img src="/assets/img/flowE.png" alt="flowE" width="250" height="190">
+<img src="/assets/img/flowE.png" alt="flowE" width="350" height="290">
 
 # Instructions for the Production of the Microfluidic Device
 
