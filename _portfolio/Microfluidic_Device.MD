@@ -19,10 +19,10 @@ Watch in real-time the particles be separated by size [here](https://youtu.be/7T
 
 # Background 
 
-* **Adjustable Flow Rate** With a motor running on Arduino code, the flow rate of the pump can quickly and easily be changed to the desired rate. The pump is a motor powered device that can administer liquids with high accuracy. The use of an Arduino Uno also allows for endless possibilities to program the pump to execute different tasks.
-* **Two Syringe Capability** With a custom 3D printed syringe holder, the pump can expel liquid from two syringes simultaneously. The design also allows for the syringes to be changed quickly and easily, which promotes sterility and minimizes cross-contamination. 
-* **Affordable Parts** Syringe pumps are often very expensive. The pump created is made entirely of affordable off-the-shelf parts and 3D printed parts, reducing the cost of the pump. The pump can be manufactured at a low cost, allowing greater access of syringe pumps to low-resource areas.
-* **Convenient Buttons** The pump has three buttons: On/Off, Forwards, and Reverse. The On/Off button is pressed once and the motor moves the carriage forwards, compressing the syringes, until the limit switch is pressed which turns the motor off. The Forwards and Reverse buttons can be pressed and held to move the carriage either forwards to compress the syringes or in reverse, to put the carriage back in the starting position. An LED light changes color when the buttons are pressed to signify the status of the pump.
+* **Scientific Principles of Microfluidic Devices** 
+* **Pinched Flow Fractionation (PFF)**
+* **Applications**  
+* **Challenges** 
 
 # CAD Model
 A mold for the device was created using stereolithography (SLA) 3D printing. High-temperature clear resin (Form 3+) was used for the mold. SLA printing was utilized in order to obtain the fine details necessary for a microfluidic device. 
@@ -31,6 +31,9 @@ A mold for the device was created using stereolithography (SLA) 3D printing. Hig
 # Design and Flow Rate Calculations and Specifications
 
 * **Calculations**
+
+  $y = /frac{(w~p - (/frac{D~p}{2})) x w~B}{wp}$
+
 * **Selected Specifications**
 
  ![Selected Spefifications](/assets/img/PFF_Drawing.jpg)
