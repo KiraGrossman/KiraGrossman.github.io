@@ -34,7 +34,15 @@ A mold for the device was created using stereolithography (SLA) 3D printing. Hig
   1. End Particle Position
 
     $y=\frac{(W_p - \frac{D_p}{2})W_B}{W_p}$
+
   2. Flow Rate
+
+      $Volume = length x width x height = 43.2 mm x 17.8 mm x 0.8 mm = 615.17 mm^3$
+
+      $1Q_particles:6Q_water$
+      $Q_water=\frac{(W_p - \frac{D_p}{2})W_B}{W_p}$
+      $Q_particles=\frac{(W_p - \frac{D_p}{2})W_B}{W_p}$
+
 * **Selected Specifications**
 
  ![Selected Spefifications](/assets/img/PFF_Drawing.jpg)
