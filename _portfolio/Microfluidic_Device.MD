@@ -39,17 +39,17 @@ A mold for the device was created using stereolithography (SLA) 3D printing. Hig
 
       a. Volume Estimation
 
-        $Volume = length\times width\times height$
+        $Volume = length\times width\times height$  
 
-        $V= 43.2 mm\times 17.8 mm\times 0.8 mm = 615.17 mm^3$
-
-
-      b. Conversion
-
-        $V = 615.17 mm^3 = 0.61517 cm^3 = 0.61517 mL$
+        $V= 43.2 mm\times 17.8 mm\times 0.8 mm = 615.17 mm^3$  
 
 
-      c. Determination of Flow Rates
+      b. Conversion  
+
+        $V = 615.17 mm^3 = 0.61517 cm^3 = 0.61517 mL$  
+
+
+      c. Determination of Flow Rates  
 
         Desired ratio of flow rates based on [literature](https://pubs.acs.org/doi/10.1021/ac049863r): $1Q_{particles}:6Q_{water}$
           
