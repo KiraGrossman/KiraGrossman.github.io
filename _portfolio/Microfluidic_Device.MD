@@ -40,6 +40,7 @@ A mold for the device was created using stereolithography (SLA) 3D printing. Hig
   3. Two equations were set up, one using $D_{max}$ and one using $D_{min}$. $W_p$ was varied in each equation, with the minimum $W_p = D_{max}$ as the segment cannot be smaller than the largest particle as the particle would not be able to flow through the channel. 
 
       a. $y_{max}=\frac{(W_p - \frac{D_{max}}{2})W_B}{W_p}$
+
       b. $y_{min}=\frac{(W_p - \frac{D_{min}}{2})W_B}{W_p}$
 
   4. The difference between y values was then calculated. 
