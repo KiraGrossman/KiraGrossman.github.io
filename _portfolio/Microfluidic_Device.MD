@@ -86,12 +86,15 @@ A mold for the device was created using stereolithography (SLA) 3D printing. Hig
   * **Results:** The smallest particle should move 7.982 mm away from the midline towards the outer edge of the device and the largest particle should move 5.840 mm away from the midline towards the outer edge of the device. 
   * **Conclusion:** Therefore, the two end channels sohuld be separated by a wall that begins at a point 7.00 mm away in the y direction from the midline. The smaller particles will flow into the topmost channel that ranges from y = 7 mm to y = 8.9 mm as 7 mm < $y_{small.particle}$ < 8.9 mm. The larger particles will flow through the channel closer to the midline as the channel ranges from y = 0 to y = 7 and  0 mm < $y_{large.particle}$ < 7 mm.
 
+### Rationale for Selected Geometries
+
 |                   | Rationale |
 | ----------------- | ------- | 
-| Broadened Segment |  |
-| Pinched Segment   |  |
-| Input Channels    |  |
-| Output Channels   |  |
+| Broadened Segment | As explained above, the width of the broadened segment was determined by the Particle End Position Equation. The length of the segment was maximized in order to allow for wide output channels with gradual angles, but was limited by the size of the base model used. The angle of the broadened segment compared to the pinched segment was 180 degrees to ensure maximum particle movement and separation in the y direction.|
+| Pinched Segment   | The width of the pinched segment was determined by the Particle End Position Equation, as explained above. The length of the pinched segment was determined based off of previous devices found in [literature](https://pubs.acs.org/doi/10.1021/ac049863r), which had a length that was close to the minimum feature size. |
+| Input Channels    | It has been found that the input channels should meet at a gradual angle, and thus the input channels met at a 45 degree angle. The width of the input channels was 1 mm in order to be slightly wider than the pinched segment width. The length of the input channels was constrained by the width of the input channels, 45 degree angle, length of the broadened and pinched segments, and placement of the counterbores in the base model used. |
+| Output Channels   | The placement in the y direction of the horizontal line for the topmost and bottom most output channels was determined by the Particle End Position Equation, as explained above. The outer channels had gradual angles (12 degrees) in comparison to each other so as not to disrupt the flow of particles greatly. There are four output channels in order to sort the two different sized particles into two different channels, and the remainig two channels were built in to maintain symmetry across the x axis. Symmetry was necessary in order to not disrupt the liquid and particle flow. The endpoints of the channel were constrained in both the y and x direction by the size of the counterbores. The width of channels were determined by the Particle End Position and the gradual angle desired between channels. The channels begin 14.52 mm from the end of the broadened segment because this length is just short of the middle of the broadened segment. This length allows the particles time and space to move into their anticipated y position, but not too much space before separating them into separate channels to avoid outside factors can effect their y position. |
+| Depth of Channels and Segments   | The depth of the channels and segments was 0.8 mm as this was the smallest size that the resin printer could accurately print without any print failures. |
 
 # Flow Rate Calculations
 
