@@ -20,10 +20,17 @@ Watch in real-time the particles be separated by size [here](https://youtu.be/7T
 # Background 
 
 * **Scientific Principles of Microfluidic Devices** 
-    * 
+  * 
 * **Pinched Flow Fractionation (PFF)**
+  * 
 * **Applications**  
+  * Diagnostic devices
+  * Biological and chemical analyses
+  * Environmental assessments
+  * Chemical and food processing
 * **Challenges** 
+  * The minimum feature size of the resin printer used was 85 microns, and for PFF, smaller sizes are desired in order to separate the particles most effectively.
+  * There is a lack of published specifications for PFF devices, resulting in design specifications that were based off of my best judgement and knowledge of the topic.
 
 # CAD Model
 A mold for the device was created using stereolithography (SLA) 3D printing. High-temperature clear resin (Form 3+) was used for the mold. SLA printing was utilized in order to obtain the fine details necessary for a microfluidic device. 
