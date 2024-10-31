@@ -45,9 +45,11 @@ A mold for the device was created using stereolithography (SLA) 3D printing. Hig
 
   4. The difference between y values was then calculated. 
 
-  * **Rationale:** It is desired to have the largest difference between y values as that correlates to the largest amount of separation between the particles, making them easier to collect.
-  * **Results:** As $W_p$ increased, the difference between y values decreased.
-  * **Conclusion:** tTe smallest possible $W_p$ should be used to obtain the largest possible distance between different sized particles. Thus, $W_p$ = 0.800 mm, as this was the smallest possible size that could be accurately printed by the resin printer without a print failure.
+      a. $\deltay =y_{min} - y{max}$
+
+      * **Rationale:** It is desired to have the largest difference between y values as that correlates to the largest amount of separation between the particles, making them easier to collect.
+      * **Results:** As $W_p$ increased, the difference between y values decreased.
+      * **Conclusion:** tTe smallest possible $W_p$ should be used to obtain the largest possible distance between different sized particles. Thus, $W_p$ = 0.800 mm, as this was the smallest possible size that could be accurately printed by the resin printer without a print failure.
 
 ### **$W_B$ Calcuations**
   1. Two y equations were set up using the newly determined $W_p$ value, and $D_{min}$ for one equation and $D_{max}$ for the other.
