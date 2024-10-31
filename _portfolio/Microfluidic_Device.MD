@@ -54,7 +54,7 @@ A mold for the device was created using stereolithography (SLA) 3D printing. Hig
 
   * **Rationale:** It is desired to have the largest difference between y values as that correlates to the largest amount of separation between the particles, making them easier to collect.
   * **Results:** As $W_p$ increased, the difference between y values decreased.
-  * **Conclusion:** tTe smallest possible $W_p$ should be used to obtain the largest possible distance between different sized particles. Thus, $W_p$ = 0.800 mm = 800 µm, as this was the smallest possible size that could be accurately printed by the resin printer without a print failure.
+  * **Conclusion:** The smallest possible $W_p$ should be used to obtain the largest possible distance between different sized particles. Thus, $W_p$ = 0.800 mm = 800 µm, as this was the smallest possible size that could be accurately printed by the resin printer without a print failure.
 
 ### **$W_B$ Calcuations**
   1. Two y equations were set up using the newly determined $W_p$ value, and $D_{min}$ for one equation and $D_{max}$ for the other.
@@ -74,9 +74,9 @@ A mold for the device was created using stereolithography (SLA) 3D printing. Hig
 
   2. Plug in all variables to obtain the y value for the smallest particle and the y position for the largest particle. 
 
-      a. $y_{small particle}=\frac{(800 µm - \frac{550µm}{2})8900µm}{800µm} = 7982.19µm$
+      a. $y_{small_particle}=\frac{(800 µm - \frac{550µm}{2})8900µm}{800µm} = 7982.19µm$
 
-      b. $y_{large particle}=\frac{(800 µm - \frac{550µm}{2})8900µm}{800µm} = 5840.63 µm$
+      b. $y_{large_particle}=\frac{(800 µm - \frac{550µm}{2})8900µm}{800µm} = 5840.63 µm$
 
   3. Determine the midpoint between the two y positions
 
@@ -84,7 +84,7 @@ A mold for the device was created using stereolithography (SLA) 3D printing. Hig
 
   * **Rationale:** It is desired to have the separation point between the two channels that will collect the two different particles to be in between the two calculated y values. If the separation point is between the two numbers calculated above, the particles should flow into their respective channels, with room for discrepancies between particles. 
   * **Results:** The smallest particle should move 7.982 mm away from the midline towards the outer edge of the device and the largest particle should move 5.840 mm away from the midline towards the outer edge of the device. 
-  * **Conclusion:** Therefore, the two end channels sohuld be separated by a wall that begins at a point 7.00 mm away in the y direction from the midline. The smaller particles will flow into the topmost channel that ranges from y = 7 mm to y = 8.9 mm as 7 mm < $y_{small particle}$ < 8.9 mm. The larger particles will flow through the channel closer to the midline as the channel ranges from y = 0 to y = 7 and  0 mm < $y_{large particle}$ < 7 mm.
+  * **Conclusion:** Therefore, the two end channels sohuld be separated by a wall that begins at a point 7.00 mm away in the y direction from the midline. The smaller particles will flow into the topmost channel that ranges from y = 7 mm to y = 8.9 mm as 7 mm < $y_{small_particle}$ < 8.9 mm. The larger particles will flow through the channel closer to the midline as the channel ranges from y = 0 to y = 7 and  0 mm < $y_{large_particle}$ < 7 mm.
 
 |                   | Rationale |
 | ----------------- | ------- | 
