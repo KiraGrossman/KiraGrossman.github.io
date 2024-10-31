@@ -95,10 +95,10 @@ A mold for the device was created using stereolithography (SLA) 3D printing. Hig
 
 1. Volume Estimation
 
-<img src="/assets/img/volume.png" alt="volume" width="150" height="90"> 
+<img src="/assets/img/volume.png" alt="volume" width="250" height="190"> 
 
 2. Conversion 
-    * $V = 615.17 mm^3 = 0.61517 cm^3 = 0.61517 mL$  
+<img src="/assets/img/conversion.png" alt="conversion" width="250" height="190">
 
 3. Determination of Flow Rates  
     * Desired ratio of flow rates based on [literature](https://pubs.acs.org/doi/10.1021/ac049863r): 
@@ -107,7 +107,7 @@ A mold for the device was created using stereolithography (SLA) 3D printing. Hig
           
     * Assumption: fill the entirety the volume of the device in 10 seconds
   
-<img src="/assets/img/flowE.png" alt="flowE" width="150" height="90">
+<img src="/assets/img/flowE.png" alt="flowE" width="250" height="190">
 
 # Instructions for the Production of the Microfluidic Device
 
