@@ -34,7 +34,7 @@ A mold for the device was created using stereolithography (SLA) 3D printing. Hig
 
 **[Particle End Position Equation](https://pubs.acs.org/doi/10.1021/ac049863r)**
 
-  * <img src="/assets/img/PEPE.png" alt="Particle End Position Equation" width="300" height="200">
+  * <img src="/assets/img/PEPE.png" alt="Particle End Position Equation" width="150" height="100">
 ![Particle End Position Equation](/assets/img/PEPE.png)
   * $W_p$ = width of pinched segment, $W_B$ = width of broadened segment, $D_p$ = particle diameter, y = distance particle with $D_p$ travels from centerline
 
