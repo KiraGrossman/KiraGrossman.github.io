@@ -31,8 +31,9 @@ A mold for the device was created using stereolithography (SLA) 3D printing. Hig
 # Design and Flow Rate Calculations and Specifications
 
 * **Calculations**
-
-$y=\frac{(W_p - \frac{D_p}{2})W_B}{W_p}$
+  1. End Particle Position
+    $y=\frac{(W_p - \frac{D_p}{2})W_B}{W_p}$
+  2. Flow Rate
 * **Selected Specifications**
 
  ![Selected Spefifications](/assets/img/PFF_Drawing.jpg)
