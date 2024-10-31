@@ -20,11 +20,11 @@ Watch in real-time the particles be separated by size [here](https://youtu.be/7T
 # Background 
 
 * **Overview of Microfluidic Devices** 
-  * Microfluidic devices are small-scale systems that control and manipulate tiny volumes of fluids. These devices are often used in the biomedical realm, for applications such as diangostic devices, as they require minimal amounts of fluids and reagents for the efficient processing of the fluids. Smaller amounts of reagents used along with the ability to 3D print microfluidic devices significantly lowers the costs of diagnostic and other biomedical analyses and tests. 
+  * Microfluidic devices are small-scale systems that control and manipulate tiny volumes of fluids. These devices are often used in the biomedical realm, for applications such as diagnostic devices, as they require minimal amounts of fluids and reagents for the efficient processing of the fluids. Smaller amounts of reagents used along with the ability to 3D print microfluidic devices significantly lowers the costs of diagnostic and other biomedical analyses and tests.  
 * **Scientific Principles of Microfluidic Devices** 
-  * Due to the micro-compartments of the device, capillary action occurs, causing liquid movement. Also, in microfluidic devices, there is only laminar flow, which is not conducive to mixing. However, mixing is necessary in microfluidic devices to perform assays and other biological tests. Mixing can occur in microfluidic devices though diffusion by increasing the surface area of the channels (split flow or increase pth length) and chaotic advection by adding geomtries (corners, chevrons, obstacles, intersections). 
+  * Due to the micro-compartments of the device, capillary action occurs, causing liquid movement. Also, in microfluidic devices, there is only laminar flow, which is not conducive to mixing. However, mixing is necessary in microfluidic devices to perform assays and other biological tests. Mixing can occur in microfluidic devices though diffusion by increasing the surface area of the channels (split flow or increase path length) and chaotic advection by adding geometries (corners, chevrons, obstacles, intersections).  
 * **Pinched Flow Fractionation (PFF)**
-  * Pinched Flow Fractionation (PFF) allows for the continuous separation of particles by size. Two fluids, one with the particles and one without, intersect at different speeds into a 'pinched' (smaller width) segment of the device. Both fluids experience laminar flow. After the pinched segment, the channel expands into a broadened segment and the smaller particles are pushed to the outside, following the streamline that is passing though its center of mass. Larger particles stay closer to the center of the broadened segment as the streamline passing through its centter of mass is influenced more by the liquid without particles, which will continue flowing closer to the middle and the side of its input channel. Thus, the particles will have different positions in the y axis and can then be separated into different channels for collection.
+  * Pinched Flow Fractionation (PFF) allows for the continuous separation of particles by size. Two fluids, one with the particles and one without, intersect at different speeds into a 'pinched' (smaller width) segment of the device. Both fluids experience laminar flow. After the pinched segment, the channel expands into a broadened segment and the smaller particles are pushed to the outside, following the streamline that is passing through its center of mass. Larger particles stay closer to the center of the broadened segment as the streamline passing through its center of mass is influenced more by the liquid without particles, which will continue flowing closer to the middle and the side of its input channel. Thus, the particles will have different positions in the y axis and can then be separated into different channels for collection.
 * **Applications**  
   * Diagnostic devices (separate cells based on size to diagnose different diseases)
   * Biological and chemical analyses
@@ -40,7 +40,7 @@ A mold for the device was created using stereolithography (SLA) 3D printing. Hig
 
 # Device Design
 
-![Selected Spefifications](/assets/img/PFF_Drawing.jpg)
+![Selected Specifications](/assets/img/PFF_Drawing.jpg)
 
 **[Particle End Position Equation](https://pubs.acs.org/doi/10.1021/ac049863r)**
 
@@ -51,7 +51,7 @@ A mold for the device was created using stereolithography (SLA) 3D printing. Hig
 ## Calculations using the Particle End Position Equation
 
 ### **<img src="/assets/img/Wp.png" alt="Wp" width="45" height="40"> Calculations**
-  1. An aribitrary constant <img src="/assets/img/Wb.png" alt="Wb" width="35" height="30"> was chosen to determine the most effective <img src="/assets/img/Wp.png" alt="Wp" width="35" height="30"> for particle separation. 
+  1. An arbitrary constant <img src="/assets/img/Wb.png" alt="Wb" width="35" height="30"> was chosen to determine the most effective <img src="/assets/img/Wp.png" alt="Wp" width="35" height="30"> for particle separation. 
   2. Two different sized particles with constant, known, diameters <img src="/assets/img/Dmax.png" alt="Dmax" width="45" height="40"> = 550 µm and <img src="/assets/img/Dmin.png" alt="Dmin" width="45" height="40"> = 165 µm were used. 
   3. Two equations were set up, one using <img src="/assets/img/Dmax.png" alt="Dmax" width="45" height="40"> and one using <img src="/assets/img/Dmin.png" alt="Dmin" width="45" height="40">. <img src="/assets/img/Wp.png" alt="Wp" width="35" height="30"> was varied in each equation, with the minimum <img src="/assets/img/Wp.png" alt="Wp" width="35" height="30"> = <img src="/assets/img/Dmax.png" alt="Dmax" width="45" height="40"> as the segment cannot be smaller than the largest particle as the particle would not be able to flow through the channel. 
 
@@ -65,7 +65,7 @@ A mold for the device was created using stereolithography (SLA) 3D printing. Hig
   * **Results:** As <img src="/assets/img/Wp.png" alt="Wp" width="35" height="30"> increased, the difference between y values decreased.
   * **Conclusion:** The smallest possible <img src="/assets/img/Wp.png" alt="Wp" width="35" height="30"> should be used to obtain the largest possible distance between different sized particles. Thus, <img src="/assets/img/Wp.png" alt="Wp" width="35" height="30"> = 0.800 mm = 800 µm, as this was the smallest possible size that could be accurately printed by the resin printer without a print failure.
 
-### **<img src="/assets/img/Wb.png" alt="Wb" width="45" height="40"> Calcuations**
+### **<img src="/assets/img/Wb.png" alt="Wb" width="45" height="40"> Calculations**
   1. Two y equations were set up using the newly determined <img src="/assets/img/Wp.png" alt="Wp" width="35" height="30"> value, and <img src="/assets/img/Dmin.png" alt="Dmin" width="45" height="40"> for one equation and <img src="/assets/img/Dmax.png" alt="Dmax" width="45" height="40"> for the other.
 
 <img src="/assets/img/WbVary.png" alt="WbVary" width="250" height="190">
@@ -89,7 +89,7 @@ A mold for the device was created using stereolithography (SLA) 3D printing. Hig
 
   * **Rationale:** It is desired to have the separation point between the two channels that will collect the two different particles to be in between the two calculated y values. If the separation point is between the two numbers calculated above, the particles should flow into their respective channels, with room for discrepancies between particles. 
   * **Results:** The smallest particle should move 7.982 mm away from the midline towards the outer edge of the device and the largest particle should move 5.840 mm away from the midline towards the outer edge of the device. 
-  * **Conclusion:** Therefore, the two end channels sohuld be separated by a wall that begins at a point 7.00 mm away in the y direction from the midline. The smaller particles will flow into the topmost channel that ranges from y = 7 mm to y = 8.9 mm as 7 mm < <img src="/assets/img/ysmall.png" alt="ysmall" width="75" height="70"> < 8.9 mm. The larger particles will flow through the channel closer to the midline as the channel ranges from y = 0 to y = 7 and  0 mm < <img src="/assets/img/ylarge.png" alt="ylarge" width="75" height="70"> < 7 mm.
+  * **Conclusion:** Therefore, the two end channels should be separated by a wall that begins at a point 7.00 mm away in the y direction from the midline. The smaller particles will flow into the topmost channel that ranges from y = 7 mm to y = 8.9 mm as 7 mm < <img src="/assets/img/ysmall.png" alt="ysmall" width="75" height="70"> < 8.9 mm. The larger particles will flow through the channel closer to the midline as the channel ranges from y = 0 to y = 7 and  0 mm < <img src="/assets/img/ylarge.png" alt="ylarge" width="75" height="70"> < 7 mm.
 
 ### Rationale for Selected Geometries
 
@@ -98,7 +98,7 @@ A mold for the device was created using stereolithography (SLA) 3D printing. Hig
 | Broadened Segment | As explained above, the width of the broadened segment was determined by the Particle End Position Equation. The length of the segment was maximized in order to allow for wide output channels with gradual angles, but was limited by the size of the base model used. The base model used required a 4 mm border between the edge of the device and the broadened segment to prevent leaking. The angle of the broadened segment compared to the pinched segment was 180 degrees to ensure maximum particle movement and separation in the y direction.|
 | Pinched Segment   | The width of the pinched segment was determined by the Particle End Position Equation, as explained above. The length of the pinched segment was determined based off of previous devices found in [literature](https://pubs.acs.org/doi/10.1021/ac049863r), which had a length that was close to the minimum feature size. |
 | Input Channels    | It has been found that the input channels should meet at a gradual angle, and thus the input channels met at a 45 degree angle. The width of the input channels was 1 mm in order to be slightly wider than the pinched segment width. The length of the input channels was constrained by the width of the input channels, 45 degree angle, length of the broadened and pinched segments, and placement of the counterbores in the base model used. |
-| Output Channels   | The placement in the y direction of the horizontal line for the topmost and bottom most output channels was determined by the Particle End Position Equation, as explained above. The outer channels had gradual angles (12 degrees) in comparison to each other so as not to disrupt the flow of particles greatly. There are four output channels in order to sort the two different sized particles into two different channels, and the remainig two channels were built in to maintain symmetry across the x axis. Symmetry was necessary in order to not disrupt the liquid and particle flow. The endpoints of the channel were constrained in both the y and x direction by the size of the counterbores. The width of channels were determined by the Particle End Position and the gradual angle desired between channels. The channels begin 14.52 mm from the end of the broadened segment because this length is just short of the middle of the broadened segment. This length allows the particles time and space to move into their anticipated y position, but not too much space before separating them into separate channels to avoid outside factors can effect their y position. |
+| Output Channels   | The placement in the y direction of the horizontal line for the topmost and bottom most output channels was determined by the Particle End Position Equation, as explained above. The outer channels had gradual angles (12 degrees) in comparison to each other so as not to disrupt the flow of particles greatly. There are four output channels in order to sort the two different sized particles into two different channels, and the remaining two channels were built in to maintain symmetry across the x axis. Symmetry was necessary in order to not disrupt the liquid and particle flow. The endpoints of the channel were constrained in both the y and x direction by the size of the counterbores. The width of channels were determined by the Particle End Position and the gradual angle desired between channels. The channels begin 14.52 mm from the end of the broadened segment because this length is just short of the middle of the broadened segment. This length allows the particles time and space to move into their anticipated y position, but not too much space before separating them into separate channels to avoid outside factors can affect their y position. |
 | Depth of Channels and Segments   | The depth of the channels and segments was 0.8 mm as this was the smallest size that the resin printer could accurately print without any print failures. |
 
 # Flow Rate Calculations
@@ -132,7 +132,7 @@ A mold for the device was created using stereolithography (SLA) 3D printing. Hig
 10. Place the mold in a petri dish.
 11. Mix together PDMS and curing agent at a weight ratio of 10:1, respectively.
 12. Pour the PDMS mixture into the mold.
-13. Put the mold with the mixure into a vacuum chamber for 30 minutes to degas the mixture.
+13. Put the mold with the mixture into a vacuum chamber for 30 minutes to degas the mixture.
 14. Place the mold into an over at 80 degrees Celsius and cure for 3 hours.
 15. Demold the PDMS device.
 16. Bond the PDMS device to a glass coverslip using PlasmaFlo PDC-FMG plasma cleaner.
