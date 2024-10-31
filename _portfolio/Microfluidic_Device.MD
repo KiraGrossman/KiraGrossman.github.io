@@ -20,6 +20,7 @@ Watch in real-time the particles be separated by size [here](https://youtu.be/7T
 # Background 
 
 * **Scientific Principles of Microfluidic Devices** 
+    * 
 * **Pinched Flow Fractionation (PFF)**
 * **Applications**  
 * **Challenges** 
@@ -110,9 +111,22 @@ A mold for the device was created using stereolithography (SLA) 3D printing. Hig
 
 # Instructions for the Production of the Microfluidic Device
 
-1. Upload the Arduino code with the desired flow rate to the Arduino Uno via a USB cable. Remove the cable when done.
-2. Plug the syringe pump into an outlet
-3. Insert a pre-filled syringe into the syringe holder while making sure that the carriage has been pulled back far enough to fit the syringe. The carriage can be moved manually by turning the coupler counterclockwise or by continuously pressing the red button. 
-4. Press and release the bigger black button. This will turn the motor clockwise continuously. The LED will turn green and the lead screw will turn, moving the carriage and pressing the plunger of the syringe. When the plunger reaches its end point, the carriage will hit a stop button which will stop the motion of the motor and turn the LED red. At this point, all of the liquid should be dispensed from the syringe and the user can repeat the operation steps for new syringes.
+1. Create design for the mold of the device in Fusion 360.
+2. Upload the design to PreForm and then upload the file to a resin printer. Make the layer resolution 25 microns.
+3. When the print is finished, wash the device for 5 minutes on the print bed in FormWash.
+4. Remove the mold from the print bed and wash for 5 minutes in fresh IPA
+5. Lay the device at an angle to prevent pooling of isopropyl alcohol and let the device dry for 30 minutes.
+6. Using compressed air, blow off debris from the mold.
+7. Cure the device in the Form Cure for 60 seconds with no heat.
+8. Remove support materials. Do not touch the inside of the mold. Ensure that there is no uncured resin on the surface of the mold, as this will prevent the polydimethyl siloxane (PDMS) from crosslinking.
+9. Coat the device with parylene-C using a parylene deposition machine so that the acrylates from the resin do not leak into the device. A thin layer is desired (only one coat). 
+10. Place the mold in a petri dish.
+11. Mix together PDMS and curing agent at a weight ratio of 10:1, respectively.
+12. Pour the PDMS mixture into the mold.
+13. Put the mold with the mixure into a vacuum chamber for 30 minutes to degas the mixture.
+14. Place the mold into an over at 80 degrees Celsius and cure for 3 hours.
+15. Demold the PDMS device.
+16. Bond the PDMS device to a glass coverslip using PlasmaFlo PDC-FMG plasma cleaner.
+17. Sterilize device in an autoclave.
 
 {% include gallery caption="Microfluidics Device Gallery. (Left: Mold and PFF device. Center: Resin printed mold of PFF device. Right: Particles flowing through PFF device)" %}
