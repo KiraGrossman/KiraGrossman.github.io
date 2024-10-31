@@ -52,40 +52,31 @@ A mold for the device was created using stereolithography (SLA) 3D printing. Hig
 
 ### **<img src="/assets/img/Wp.png" alt="Wp" width="45" height="40"> Calculations**
   1. An arbitrary constant <img src="/assets/img/Wb.png" alt="Wb" width="35" height="30"> was chosen to determine the most effective <img src="/assets/img/Wp.png" alt="Wp" width="35" height="30"> for particle separation. 
-  2. Two different sized particles with constant, known, diameters <img src="/assets/img/Dmax.png" alt="Dmax" width="45" height="40"> = 550 µm and <img src="/assets/img/Dmin.png" alt="Dmin" width="45" height="40"> = 165 µm were used. 
-  3. Two equations were set up, one using <img src="/assets/img/Dmax.png" alt="Dmax" width="45" height="40"> and one using <img src="/assets/img/Dmin.png" alt="Dmin" width="45" height="40">. <img src="/assets/img/Wp.png" alt="Wp" width="35" height="30"> was varied in each equation, with the minimum <img src="/assets/img/Wp.png" alt="Wp" width="35" height="30"> = <img src="/assets/img/Dmax.png" alt="Dmax" width="45" height="40"> as the segment cannot be smaller than the largest particle as the particle would not be able to flow through the channel. 
-
-<img src="/assets/img/WpVary.png" alt="WpVary" width="250" height="190">
-
-  4. The difference between y values was then calculated. 
-
-<img src="/assets/img/delta_y.png" alt="delta_y" width="250" height="190">
+  2. Two different sized particles with constant, known, diameters <img src="/assets/img/Dmax.png" alt="Dmax" width="45" height="40"> = 550 µm and <img src="/assets/img/Dmin.png" alt="Dmin" width="45" height="40"> = 165 µm were used.
+  3. Two equations were set up, one using <img src="/assets/img/Dmax.png" alt="Dmax" width="45" height="40"> and one using <img src="/assets/img/Dmin.png" alt="Dmin" width="45" height="40">. <img src="/assets/img/Wp.png" alt="Wp" width="35" height="30"> was varied in each equation, with the minimum <img src="/assets/img/Wp.png" alt="Wp" width="35" height="30"> = <img src="/assets/img/Dmax.png" alt="Dmax" width="45" height="40"> as the segment cannot be smaller than the largest particle as the particle would not be able to flow through the channel.          
+<img src="/assets/img/WpVary.png" alt="WpVary" width="250" height="190">          
+  4. The difference between y values was then calculated.           
+<img src="/assets/img/delta_y.png" alt="delta_y" width="250" height="190">          
 
   * **Rationale:** It is desired to have the largest difference between y values as that correlates to the largest amount of separation between the particles, making them easier to collect.
   * **Results:** As <img src="/assets/img/Wp.png" alt="Wp" width="35" height="30"> increased, the difference between y values decreased.
   * **Conclusion:** The smallest possible <img src="/assets/img/Wp.png" alt="Wp" width="35" height="30"> should be used to obtain the largest possible distance between different sized particles. Thus, <img src="/assets/img/Wp.png" alt="Wp" width="35" height="30"> = 0.800 mm = 800 µm, as this was the smallest possible size that could be accurately printed by the resin printer without a print failure.
 
 ### **<img src="/assets/img/Wb.png" alt="Wb" width="45" height="40"> Calculations**
-  1. Two y equations were set up using the newly determined <img src="/assets/img/Wp.png" alt="Wp" width="35" height="30"> value, and <img src="/assets/img/Dmin.png" alt="Dmin" width="45" height="40"> for one equation and <img src="/assets/img/Dmax.png" alt="Dmax" width="45" height="40"> for the other.
-
-<img src="/assets/img/WbVary.png" alt="WbVary" width="250" height="190">
-
-  2. <img src="/assets/img/Wb.png" alt="Wb" width="35" height="30"> was varied and the difference between y values was calculated.
+  1. Two y equations were set up using the newly determined <img src="/assets/img/Wp.png" alt="Wp" width="35" height="30"> value, and <img src="/assets/img/Dmin.png" alt="Dmin" width="45" height="40"> for one equation and <img src="/assets/img/Dmax.png" alt="Dmax" width="45" height="40"> for the other.          
+<img src="/assets/img/WbVary.png" alt="WbVary" width="250" height="190">          
+  2. <img src="/assets/img/Wb.png" alt="Wb" width="35" height="30"> was varied and the difference between y values was calculated.          
 
   * **Rationale:** It is desired to have the largest difference between y values as that correlates to the largest amount of separation between the particles, making them easier to collect.
   * **Results:** as <img src="/assets/img/Wb.png" alt="Wb" width="35" height="30"> increased, the difference between y values increased.
   * **Conclusion:** the largest possible <img src="/assets/img/Wb.png" alt="Wb" width="35" height="30"> should be used to obtain the largest possible distance between different sized particles. Thus, <img src="/assets/img/Wb.png" alt="Wb" width="35" height="30"> = 17.8 mm, as this was the largest possible size that could be contained in the microfluidic device.
 
 ### Output Channel y Position
-  1. Divide <img src="/assets/img/Wb.png" alt="Wb" width="35" height="30"> = 17.8 mm by 2 to achieve the y position above the midline of the broadened segment. <img src="/assets/img/Wb.png" alt="Wb" width="35" height="30"> = 8.9 mm = 8900 µm
-
-  2. Plug in all variables to obtain the y value for the smallest particle and the y position for the largest particle. 
-
+  1. Divide <img src="/assets/img/Wb.png" alt="Wb" width="35" height="30"> = 17.8 mm by 2 to achieve the y position above the midline of the broadened segment. <img src="/assets/img/Wb.png" alt="Wb" width="35" height="30"> = 8.9 mm = 8900 µm.
+  2. Plug in all variables to obtain the y value for the smallest particle and the y position for the largest particle.           
 <img src="/assets/img/ysl.png" alt="ysl" width="450" height="390">
-
-  3. Determine the midpoint between the two y positions
-
-<img src="/assets/img/midpoint.png" alt="midpoint" width="350" height="290">
+  3. Determine the midpoint between the two y positions          
+<img src="/assets/img/midpoint.png" alt="midpoint" width="350" height="290">          
 
   * **Rationale:** It is desired to have the separation point between the two channels that will collect the two different particles to be in between the two calculated y values. If the separation point is between the two numbers calculated above, the particles should flow into their respective channels, with room for discrepancies between particles. 
   * **Results:** The smallest particle should move 7.982 mm away from the midline towards the outer edge of the device and the largest particle should move 5.840 mm away from the midline towards the outer edge of the device. 
