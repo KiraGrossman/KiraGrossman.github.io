@@ -33,7 +33,7 @@ A mold for the device was created using stereolithography (SLA) 3D printing. Hig
 * **Calculations**
 
 $y = \frac{(wp - ($\frac{Dp}{2})) x wB}{wp}$
-$a/b=\frac{a}{b}$
+$y=\frac{W_p}{b}$
 * **Selected Specifications**
 
  ![Selected Spefifications](/assets/img/PFF_Drawing.jpg)
