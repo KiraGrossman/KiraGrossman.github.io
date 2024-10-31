@@ -80,7 +80,7 @@ A mold for the device was created using stereolithography (SLA) 3D printing. Hig
 
   3. Determine the midpoint between the two y positions
 
-      a. $5.840 + \frac{7.982 mm - 5.840 mm}{2} = 6.91 mm$
+      a. $5.840 mm + \frac{7.982 mm - 5.840 mm}{2} = 6.91 mm$
 
   * **Rationale:** It is desired to have the separation point between the two channels that will collect the two different particles to be in between the two calculated y values. If the separation point is between the two numbers calculated above, the particles should flow into their respective channels, with room for discrepancies between particles. 
   * **Results:** The smallest particle should move 7.982 mm away from the midline towards the outer edge of the device and the largest particle should move 5.840 mm away from the midline towards the outer edge of the device. 
@@ -96,21 +96,21 @@ A mold for the device was created using stereolithography (SLA) 3D printing. Hig
 # Flow Rate Calculations
 
 1. Volume Estimation
-  * $Volume = length\times width\times height$ 
+    * $Volume = length\times width\times height$ 
 
-  * $V= 43.2 mm\times 17.8 mm\times 0.8 mm = 615.17 mm^3$  
+    * $V= 43.2 mm\times 17.8 mm\times 0.8 mm = 615.17 mm^3$  
 
 2. Conversion 
-  * $V = 615.17 mm^3 = 0.61517 cm^3 = 0.61517 mL$  
+    * $V = 615.17 mm^3 = 0.61517 cm^3 = 0.61517 mL$  
 
 3. Determination of Flow Rates  
-  * Desired ratio of flow rates based on [literature](https://pubs.acs.org/doi/10.1021/ac049863r): $1Q_{particles}:6Q_{water}$
+    * Desired ratio of flow rates based on [literature](https://pubs.acs.org/doi/10.1021/ac049863r): $1Q_{particles}:6Q_{water}$
           
-  * Assumption: fill the entirety the volume of the device in 10 seconds
+    * Assumption: fill the entirety the volume of the device in 10 seconds
   
-  * $Q_{particles}=\frac{\frac{V}{7}mL}{10s}\times \frac{60s}{1min} = 0.521 mL/min$
+    * $Q_{particles}=\frac{\frac{V}{7}mL}{10s}\times \frac{60s}{1min} = 0.521 mL/min$
   
-  * $Q_{water}=\frac{\frac{V\times 6}{7}mL}{10s}\times \frac{60s}{1min} = 3.16 mL/min$
+    * $Q_{water}=\frac{\frac{V\times 6}{7}mL}{10s}\times \frac{60s}{1min} = 3.16 mL/min$
 
 # Instructions for the Production of the Microfluidic Device
 
