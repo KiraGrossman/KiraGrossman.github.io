@@ -95,22 +95,22 @@ A mold for the device was created using stereolithography (SLA) 3D printing. Hig
 
 # Flow Rate Calculations
 
-    a. **Volume Estimation**
-      * $Volume = length\times width\times height$ 
+1. Volume Estimation
+  * $Volume = length\times width\times height$ 
 
-      * $V= 43.2 mm\times 17.8 mm\times 0.8 mm = 615.17 mm^3$  
+  * $V= 43.2 mm\times 17.8 mm\times 0.8 mm = 615.17 mm^3$  
 
-    b. **Conversion**  
-      * $V = 615.17 mm^3 = 0.61517 cm^3 = 0.61517 mL$  
+2. Conversion 
+  * $V = 615.17 mm^3 = 0.61517 cm^3 = 0.61517 mL$  
 
-    c. **Determination of Flow Rates**  
-      * Desired ratio of flow rates based on [literature](https://pubs.acs.org/doi/10.1021/ac049863r): $1Q_{particles}:6Q_{water}$
+3. Determination of Flow Rates  
+  * Desired ratio of flow rates based on [literature](https://pubs.acs.org/doi/10.1021/ac049863r): $1Q_{particles}:6Q_{water}$
           
-      * Assumption: fill the entirety the volume of the device in 10 seconds
+  * Assumption: fill the entirety the volume of the device in 10 seconds
   
-      * $Q_{particles}=\frac{\frac{V}{7}mL}{10s}\times \frac{60s}{1min} = 0.521 mL/min$
+  * $Q_{particles}=\frac{\frac{V}{7}mL}{10s}\times \frac{60s}{1min} = 0.521 mL/min$
   
-      * $Q_{water}=\frac{\frac{V\times 6}{7}mL}{10s}\times \frac{60s}{1min} = 3.16 mL/min$
+  * $Q_{water}=\frac{\frac{V\times 6}{7}mL}{10s}\times \frac{60s}{1min} = 3.16 mL/min$
 
 # Instructions for the Production of the Microfluidic Device
 
