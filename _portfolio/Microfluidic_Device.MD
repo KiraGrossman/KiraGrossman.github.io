@@ -39,8 +39,7 @@ A mold for the device was created using stereolithography (SLA) 3D printing. Hig
 
       a. Volume Estimation
 
-        $Volume = length\times width\times height$  
-
+$Volume = length\times width\times height$  
         $V= 43.2 mm\times 17.8 mm\times 0.8 mm = 615.17 mm^3$  
 
 
