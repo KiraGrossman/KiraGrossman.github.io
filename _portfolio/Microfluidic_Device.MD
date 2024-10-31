@@ -45,7 +45,7 @@ A mold for the device was created using stereolithography (SLA) 3D printing. Hig
 
   4. The difference between y values was then calculated. 
 
-      a. $\\Delta{y} =y_{min} - y{max}$
+      a. $\\Delta{y} =y_{min} - y_{max}$
 
       * **Rationale:** It is desired to have the largest difference between y values as that correlates to the largest amount of separation between the particles, making them easier to collect.
       * **Results:** As $W_p$ increased, the difference between y values decreased.
@@ -53,6 +53,11 @@ A mold for the device was created using stereolithography (SLA) 3D printing. Hig
 
 ### **$W_B$ Calcuations**
   1. Two y equations were set up using the newly determined $W_p$ value, and $D_{min}$ for one equation and $D_{max}$ for the other.
+
+      a. $y_{max}=\frac{(0.8 - \frac{D_{max}}{2})W_B}{0.8}$
+
+      b. $y_{min}=\frac{(0.8 - \frac{D_{min}}{2})W_B}{0.8}$
+
   2. $W_B$ was varied and the difference between y values was calculated.
 
   * **Rationale:** It is desired to have the largest difference between y values as that correlates to the largest amount of separation between the particles, making them easier to collect.
