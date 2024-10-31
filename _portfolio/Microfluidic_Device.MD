@@ -31,15 +31,14 @@ A mold for the device was created using stereolithography (SLA) 3D printing. Hig
 # Calculations
 1. End Particle Position
 
-        $y=\frac{(W_p - \frac{D_p}{2})W_B}{W_p}$
+      $y=\frac{(W_p - \frac{D_p}{2})W_B}{W_p}$
 
 2. Flow Rate
 
     a. Volume Estimation
 
-        $Volume = length\times width\times height$  
-
-        $V= 43.2 mm\times 17.8 mm\times 0.8 mm = 615.17 mm^3$  
+      $Volume = length\times width\times height$  
+      $V= 43.2 mm\times 17.8 mm\times 0.8 mm = 615.17 mm^3$  
 
     b. Conversion  
 
@@ -51,9 +50,9 @@ A mold for the device was created using stereolithography (SLA) 3D printing. Hig
           
       * Assumption: fill the entirety the volume of the device in 10 seconds
   
-      $Q_{particles}=\frac{\frac{V}{7}mL}{10s}\times \frac{60s}{1min} = 0.521 mL/min$
+    $Q_{particles}=\frac{\frac{V}{7}mL}{10s}\times \frac{60s}{1min} = 0.521 mL/min$
   
-      $Q_{water}=\frac{\frac{V\times 6}{7}mL}{10s}\times \frac{60s}{1min} = 3.16 mL/min$
+    $Q_{water}=\frac{\frac{V\times 6}{7}mL}{10s}\times \frac{60s}{1min} = 3.16 mL/min$
 
 * **Selected Specifications**
 
