@@ -42,7 +42,7 @@ A mold for the device was created using stereolithography (SLA) 3D printing. Hig
 
 ### **<img src="/assets/img/Wp.png" alt="Wp" width="35" height="30"> Calculations**
   1. An aribitrary constant <img src="/assets/img/Wb.png" alt="Wb" width="25" height="20"> was chosen to determine the most effective <img src="/assets/img/Wp.png" alt="Wp" width="25" height="20"> for particle separation. 
-  2. Two different sized particles with constant, known, diameters <img src="/assets/img/Dmax.png" alt="Dmax" width="35" height="30"> = 550 µm and <img src="/assets/img/Dmin.png" alt="Dmin" width="35" height="30"> = 165 µm were used. 
+  2. Two different sized particles with constant, known, diameters <img src="/assets/img/Dmax.png" alt="Dmax" width="45" height="40"> = 550 µm and <img src="/assets/img/Dmin.png" alt="Dmin" width="45" height="40"> = 165 µm were used. 
   3. Two equations were set up, one using <img src="/assets/img/Dmax.png" alt="Dmax" width="25" height="20"> and one using <img src="/assets/img/Dmin.png" alt="Dmin" width="25" height="20">. <img src="/assets/img/Wp.png" alt="Wp" width="25" height="20"> was varied in each equation, with the minimum <img src="/assets/img/Wp.png" alt="Wp" width="25" height="20"> = <img src="/assets/img/Dmax.png" alt="Dmax" width="25" height="20"> as the segment cannot be smaller than the largest particle as the particle would not be able to flow through the channel. 
 
 <img src="/assets/img/WpVary.png" alt="WpVary" width="250" height="190">
