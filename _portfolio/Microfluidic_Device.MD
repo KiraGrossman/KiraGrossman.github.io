@@ -19,12 +19,14 @@ Watch in real-time the particles be separated by size [here](https://youtu.be/7T
 
 # Background 
 
+* **Overview of Microfluidic Devices** 
+  * Microfluidic devices are small-scale systems that control and manipulate tiny volumes of fluids. These devices are often used in the biomedical realm, for applications such as diangostic devices, as they require minimal amounts of fluids and reagents for the efficient processing of the fluids. Smaller amounts of reagents used along with the ability to 3D print microfluidic devices significantly lowers the costs of diagnostic and other biomedical analyses and tests. 
 * **Scientific Principles of Microfluidic Devices** 
-  * 
+  * Due to the micro-compartments of the device, capillary action occurs, causing liquid movement. Also, in microfluidic devices, there is only laminar flow, which is not conducive to mixing. However, mixing is necessary in microfluidic devices to perform assays and other biological tests. Mixing can occur in microfluidic devices though diffusion by increasing the surface area of the channels (split flow or increase pth length) and chaotic advection by adding geomtries (corners, chevrons, obstacles, intersections). 
 * **Pinched Flow Fractionation (PFF)**
-  * 
+  * Pinched Flow Fractionation (PFF) allows for the continuous separation of particles by size. Two fluids, one with the particles and one without, intersect at different speeds into a 'pinched' (smaller width) segment of the device. Both fluids experience laminar flow. After the pinched segment, the channel expands into a broadened segment and the smaller particles are pushed to the outside, following the streamline that is passing though its center of mass. Larger particles stay closer to the center of the broadened segment as the streamline passing through its centter of mass is influenced more by the liquid without particles, which will continue flowing closer to the middle and the side of its input channel.
 * **Applications**  
-  * Diagnostic devices
+  * Diagnostic devices (separate cells based on size to diagnose different diseases)
   * Biological and chemical analyses
   * Environmental assessments
   * Chemical and food processing
@@ -93,7 +95,7 @@ A mold for the device was created using stereolithography (SLA) 3D printing. Hig
 
 |                   | Rationale |
 | ----------------- | ------- | 
-| Broadened Segment | As explained above, the width of the broadened segment was determined by the Particle End Position Equation. The length of the segment was maximized in order to allow for wide output channels with gradual angles, but was limited by the size of the base model used. The angle of the broadened segment compared to the pinched segment was 180 degrees to ensure maximum particle movement and separation in the y direction.|
+| Broadened Segment | As explained above, the width of the broadened segment was determined by the Particle End Position Equation. The length of the segment was maximized in order to allow for wide output channels with gradual angles, but was limited by the size of the base model used. The base model used required a 4 mm border between the edge of the device and the broadened segment to prevent leaking. The angle of the broadened segment compared to the pinched segment was 180 degrees to ensure maximum particle movement and separation in the y direction.|
 | Pinched Segment   | The width of the pinched segment was determined by the Particle End Position Equation, as explained above. The length of the pinched segment was determined based off of previous devices found in [literature](https://pubs.acs.org/doi/10.1021/ac049863r), which had a length that was close to the minimum feature size. |
 | Input Channels    | It has been found that the input channels should meet at a gradual angle, and thus the input channels met at a 45 degree angle. The width of the input channels was 1 mm in order to be slightly wider than the pinched segment width. The length of the input channels was constrained by the width of the input channels, 45 degree angle, length of the broadened and pinched segments, and placement of the counterbores in the base model used. |
 | Output Channels   | The placement in the y direction of the horizontal line for the topmost and bottom most output channels was determined by the Particle End Position Equation, as explained above. The outer channels had gradual angles (12 degrees) in comparison to each other so as not to disrupt the flow of particles greatly. There are four output channels in order to sort the two different sized particles into two different channels, and the remainig two channels were built in to maintain symmetry across the x axis. Symmetry was necessary in order to not disrupt the liquid and particle flow. The endpoints of the channel were constrained in both the y and x direction by the size of the counterbores. The width of channels were determined by the Particle End Position and the gradual angle desired between channels. The channels begin 14.52 mm from the end of the broadened segment because this length is just short of the middle of the broadened segment. This length allows the particles time and space to move into their anticipated y position, but not too much space before separating them into separate channels to avoid outside factors can effect their y position. |
@@ -126,7 +128,7 @@ A mold for the device was created using stereolithography (SLA) 3D printing. Hig
 6. Using compressed air, blow off debris from the mold.
 7. Cure the device in the Form Cure for 60 seconds with no heat.
 8. Remove support materials. Do not touch the inside of the mold. Ensure that there is no uncured resin on the surface of the mold, as this will prevent the polydimethyl siloxane (PDMS) from crosslinking.
-9. Coat the device with parylene-C using a parylene deposition machine so that the acrylates from the resin do not leak into the device. A thin layer is desired (only one coat). 
+9. Coat the device with a thin layer of parylene-C using a parylene deposition machine. This is so that the acrylates from the resin do not leak into the device.
 10. Place the mold in a petri dish.
 11. Mix together PDMS and curing agent at a weight ratio of 10:1, respectively.
 12. Pour the PDMS mixture into the mold.
