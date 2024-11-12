@@ -2,12 +2,12 @@
 title: "Multi-Material Pliers"
 excerpt: "Multi-material pliers printed with Fused Filament Fabrication 3D printing capable of picking up small items."
 header:
-  image: /assets/img/front_good.png
-  teaser: /assets/img/sp1.png
+  image: /assets/img/P1.jpeg
+  teaser: /assets/img/P2.jpeg
 gallery:
-  - image_path: assets/img/sp1.png
-  - image_path: assets/img/sp2.png
-  - image_path: assets/img/sp3.png
+  - image_path: assets/img/P2.jpeg
+  - image_path: assets/img/P_It.jpeg
+  - image_path: assets/img/P_Side.jpeg
    
 ---
 
