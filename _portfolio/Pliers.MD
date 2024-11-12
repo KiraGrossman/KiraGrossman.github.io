@@ -47,6 +47,7 @@ High functioning, light-weight, low-cost, easy-to-assemble pliers! These pliers 
 All parts were custom made using FFF printing
 
 ### Design Rationale
+
 | Part | Purpose | Material |
 | ----------- | ----------- | ----------- |
 | Handle and Nose | The Handle is connected to the Nose by the Inner Handle Diameter. The Handle's and Nose's shapes and sizes were created to mimic that of manufactured pliers. The Inner Handle Diameter was created in order to rotate the Handle and Nose around the Secure, which would allow for the pinching capability of the pliers. There are two Handle/Nose parts in the pliers assembly, and the two parts mirror each other so that when the Handles are squeezed together, the Noses will touch. The Inner Handle Diameters of the two Handles/Noses are 3 mm tall and are stacked on top of each other. This allows each Handle/Nose to rotate independently of the other. Since the Inner Handle Diameters are stacked, the Noses are offset from each other, so the Noses are 6 mm high instead of 3. Thus, when put together, one of the Handle/Nose is flipped 180 degrees so that the Handles are mirrored and the Noses touch each other (one of the Noses is extruded 6 mm up while the other is extruded 6 mm down). The Handles also have a Flexible Part Insertion Site, where the Flexible Part is pressed into. The Flexible Part fits snuggly with the Handles and the geometry of the Flexible Part Insertion Site prevents the Flexible Part from being pulled from the device, even when the handles are being pulled apart to widen the Jaw Width. | PLA |
@@ -55,6 +56,7 @@ All parts were custom made using FFF printing
 | Flexible Part | | TPU |
 
 ### Relevant Specifications
+
 | Part | Specification | Rationale |
 | ----------- | ----------- | ----------- |
 | Jaw Length | 40 mm | Jaw Length was based off of the specifications of manufactured pliers, and allows the Jaw to pick up longer objects. |
