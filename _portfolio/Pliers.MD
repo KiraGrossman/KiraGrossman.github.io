@@ -1,5 +1,5 @@
 ---
-title: "Multi-material Pliers"
+title: "Multi-Material Pliers"
 excerpt: "Multi-material pliers printed with Fused Filament Fabrication 3D printing capable of picking up small items."
 header:
   image: /assets/img/front_good.png
