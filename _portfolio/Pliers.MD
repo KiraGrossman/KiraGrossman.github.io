@@ -49,11 +49,19 @@ All parts were custom made using FFF printing
 ### Design Rationale
 | Part | Purpose | Material |
 | ----------- | ----------- | ----------- |
-| Handle |  | PLA |
-| Nose |  | PLA |
+| Handle and Nose | The Handle is connected to the Nose by the Inner Handle Diameter. The Handle's and Nose's shapes and sizes were created to mimic that of manufactured pliers. The Inner Handle Diameter was created in order to rotate the Handle and Nose around the Secure, which would allow for the pinching capability of the pliers. There are two Handle/Nose parts in the pliers assembly, and the two parts mirror each other so that when the Handles are squeezed together, the Noses will touch. The Inner Handle Diameters of the two Handles/Noses are 3 mm tall and are stacked on top of each other. This allows each Handle/Nose to rotate independently of the other. Since the Inner Handle Diameters are stacked, the Noses are offset from each other, so the Noses are 6 mm high instead of 3. Thus, when put together, one of the Handle/Nose is flipped 180 degrees so that the Handles are mirrored and the Noses touch each other (one of the Noses is extruded 6 mm up while the other is extruded 6 mm down). The Handles also have a Flexible Part Insertion Site, where the Flexible Part is pressed into. The Flexible Part fits snuggly with the Handles and the geometry of the Flexible Part Insertion Site prevents the Flexible Part from being pulled from the device, even when the handles are being pulled apart to widen the Jaw Width. | PLA |
 | Secure |  | PLA |
 | Bolt |  | PLA |
 | Flexible Part | | TPU |
+
+### Relevant Specifications
+| Part | Specification | Rationale |
+| ----------- | ----------- | ----------- |
+| Jaw Length | 40 mm | Jaw Length was based off of the specifications of manufactured pliers, and allows the Jaw to pick up longer objects. |
+| Jaw Width | Resting State = 10 mm, Minimum = 0 mm, Maximum = XX | The Jaw Width varies depending on what state the pliers are in. At its resting state, the Jaw is open, with a width of 10 mm. When the Handles are squeezed together, the Jaw closes completely, which is necessary to pick up small items. The Jaw can also be widened by pulling the Handles apart, allowing the pliers to pick up wider objects. |
+| Jaw Capacity | 0-300 g | The Jaws are able to pick up and move objects as small and light as a resistor. The Jaws can also pick up and move objects as large as an iPhone 14 Pro with a case on (roughly 300 g). |
+| Handle Gap Width | 30 mm | The gap between the Handles is 30 mm at the base in order to allow for a similar geometry to that of manufactured pliers while still having enough space at the joint of the two handles in order to close the Nose fully. |
+| Handle Width | 70 mm | The Handle Width was based off of the specifications of manufactured pliers, and allow the pliers to fit comfortably in one hand. |
 
 # Print Settings
 
