@@ -44,20 +44,29 @@ High functioning, light-weight, low-cost, easy-to-assemble pliers! These pliers 
 ![Selected Specifications1](/assets/img/Pliers_Specs1.png)
 ![Selected Specifications2](/assets/img/Pliers_Specs2.png)
 
-All parts were custom made to specifically fit the off-the-shelf parts and to execute the purposes of the syringe pump.  
+All parts were custom made using FFF printing
 
-| Part | Purpose |
-| ----------- | ----------- |
-| Enclosure Top and Bottom | The enclosure contains the breadboard, wires, Arduino, and power supply, making the syringe pump one portable unit. The enclosure also protects the internal components from damage if dropped. The top of the enclosure has grooves to house the aluminum extrusion. Attached to the side of the enclosure are the three buttons and LED light. |
-| Carriage | The carriage moves along the lead screw and linear rod linearly to compress the syringes. |
-| End Support | The end support holds the linear rod and lead screw in place. |
-| Motor Mounting Plate | The motor mounting plate holds the motor in place. |
-| Syringe Holder | The syringe holder holds the syringes in place and contains the limit switch. |
+### Design Rationale
+| Part | Purpose | Material |
+| ----------- | ----------- | ----------- |
+| Handle |  | PLA |
+| Nose |  | PLA |
+| Secure |  | PLA |
+| Bolt |  | PLA |
+| Flexible Part | | TPU |
 
 # Print Settings
 
-The syringe pump was programmed using an [Arduino code](/Syringe_Pump.ino). The code was used to run the motor, thus determining the flow rate of the syringe. The code also controlled the On/Off capabilities of the pump, the LED light, and the direction of movement of the carriage. 
-
-
+| Print Setting | TPU Part | PLA Parts | Rationale |
+| ----------- | ----------- | ----------- | ----------- |
+| Infill Density | None | 18% | The TPU part had no infil and was printed as a solid part. The part was very thin, meaning it would have little infil, and, when it was printed with infil, the print failed and there was excessive stringing. Thus, for the second iteration, the infil was removed to create a solid part that would endure the printing process. Furthermore, removing the infil made the part have better mechanical properties and made the spring component stronger. The PLA parts had an infil density of 18% to make the parts light and print faster. |
+| Sparse Infill Pattern | N/A | Rectilinear | The infill pattern did not affect the mobility or functionality of the pliers and thus the default settings were used. |
+| Top Infill Pattern | N/A | Monotonic | The infill pattern did not affect the mobility or functionality of the pliers and thus the default settings were used. |
+| Perimeters | 3 | 4 | The TPU part was printed with 3 perimeters as that is the default print setting. The PLA parts had 4 perimeters as one iteration of parts failed to print the top millimeter of the parts. Thus, I increased the number of perimeters to ensure that the tops of the parts would be printed. |
+| Wall Thickness | 0 | 0 | There were no issues with the first iterations printed with regard to the default wall thickness used and thus I continued to use the default settings. |
+| Solid Layers | Top and Bottom: 3 | Top and Bottom: 3 | There were no issues with the first iterations printed with the default settings and thus I continued to use the default settings. |
+| Minimum Shell Thickness | Top and Bottom: 0 | Top and Bottom: 0 | There were no issues with the first iterations printed with the default settings and thus I continued to use the default settings. |
+| Extruder Temperature (Celsius) | First Layer, Other Layers: 240, 235 | First Layer, Other Layers: 215, 210 | There were no issues with the first iterations printed with the default settings and thus I continued to use the default settings. |
+| Bed Temperature (Celsius) | First Layer, Other Layers: 50, 50 | First Layer, Other Layers: 65, 65 | There were no issues with the first iterations printed with the default settings and thus I continued to use the default settings. |
 {% include gallery caption="Iterations of Pliers" %}
 
