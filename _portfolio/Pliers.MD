@@ -15,6 +15,8 @@ gallery:
 
 High functioning, light-weight, low-cost, easy-to-assemble pliers! These pliers are the coolest design on the market! 
 
+![Pliers_GIF](/assets/img/Pliers_GIF.gif)
+
 * **High Functionality:** While small in size, these pliers are mighty in strength and precision! The pliers are capable of picking up objects as small and light as a single resistor or as large and heavy as an iPhone 14 Pro with a case on!
 * **Light-weight:** Made of PLA and TPU, and at 170 mm long, 70 mm wide with a maximum height of 6 mm, these pliers weigh less than 1 pound! The pliers are also small enough to fit comfortable in a handbag or on-the-go tool kit.
 * **Low-Cost:** The pliers were made with Fused Filament Fabrication (FFF) 3D printing and recycled material, lowering production costs. 
