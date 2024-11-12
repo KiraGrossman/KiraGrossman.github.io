@@ -41,8 +41,8 @@ High functioning, light-weight, low-cost, easy-to-assemble pliers! These pliers 
 
 # Design and Relevant Specifications
 
-![Selected Specifications1](/assets/img/Pliers_Specs1.jpg)
-![Selected Specifications2](/assets/img/Pliers_Specs2.jpg)
+![Selected Specifications1](/assets/img/Pliers_Specs1.png)
+![Selected Specifications2](/assets/img/Pliers_Specs2.png)
 
 All parts were custom made to specifically fit the off-the-shelf parts and to execute the purposes of the syringe pump.  
 
