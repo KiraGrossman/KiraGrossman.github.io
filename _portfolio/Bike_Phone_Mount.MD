@@ -36,7 +36,7 @@ Top-down modeling was used in Fusion 360 in order to create the design of the mo
 | Top Clamp |  | Nylon |
 | Bottom Clamp |  | Nylon |
 | Rotator |  | PLA |
-| Spring Loaded Knobs |  | Nylon |
+| Spring-Loaded Knobs |  | Nylon |
 | Cap |  | Nylon |
 | Base |  | Nylon |
 | Spur Gear |  | Nylon |
@@ -45,23 +45,23 @@ Top-down modeling was used in Fusion 360 in order to create the design of the mo
 # Assembly Instructions
 M5 x 15 mm screws --> clamp
 M3 x 15 mm screw --> rotator
-1. Create design for the mold of the device in Fusion 360.
-2. Upload the design to PreForm and then upload the file to a resin printer. Make the layer resolution 25 microns.
-3. When the print is finished, wash the device for 5 minutes on the print bed in FormWash.
-4. Remove the mold from the print bed and wash for 5 minutes in fresh IPA
-5. Lay the device at an angle to prevent pooling of isopropyl alcohol and let the device dry for 30 minutes.
-6. Using compressed air, blow off debris from the mold.
-7. Cure the device in the Form Cure for 60 seconds with no heat.
-8. Remove support materials. Do not touch the inside of the mold. Ensure that there is no uncured resin on the surface of the mold, as this will prevent the polydimethyl siloxane (PDMS) from crosslinking.
-9. Coat the device with a thin layer of parylene-C using a parylene deposition machine. This is so that the acrylates from the resin do not leak into the device.
-10. Place the mold in a petri dish.
-11. Mix together PDMS and curing agent at a weight ratio of 10:1, respectively.
-12. Pour the PDMS mixture into the mold.
-13. Put the mold with the mixture into a vacuum chamber for 30 minutes to degas the mixture.
-14. Place the mold into an over at 80 degrees Celsius and cure for 3 hours.
-15. Demold the PDMS device.
-16. Bond the PDMS device to a glass coverslip using PlasmaFlo PDC-FMG plasma cleaner.
-17. Sterilize device in an autoclave.
+1. Add 4 M5 brass knurled nuts (heat-set inserts) to all holes in the Bottom Clamp.
+2. Add 4 M5 brass knurled nuts (heat-set inserts) to 4 holes on the round face of the Top Clamp.
+3. Add 1 M3 brass knurled nuts (heat-set insert) to the hole in the Rotator.
+4. Add 1 M3 brass knurled nuts (heat-set insert) to the bottom of the hole in the Base.
+5. Line up the holes of the Bottom Clamp to the corresponding holes of the Top Clamp, so that the clamps form a circle around the bicylce handle.
+6. Screw in 4 M5 x 15 mm screws into the holes and add 4 M5 nuts to each screw.
+7. Place 1 Spring-Loaded Knob into the Notch in the Rotator so that the extruded part of the Knob runs vertically.
+8. While holding the Knob in place in the Rotator, add a 9/32" x 3/4" compression spring into the other Notch in the Rotator. 
+9. Place the reamining Knob into remaining open Notch in the same orientation as the first Knob.
+10. While compressing both Knobs, place the rotator into the Rotator Hole. Rotate the Rotator until the Knobs click into place.
+11. Place the Cap over the Rotator and align the holes to the corresponding holes in the Top Clamp. Screw in 4 M5 x 15 mm screws into the holes.
+12. 
+13. 
+14. 
+15. 
+16. 
+17. 
 
 {% include gallery caption="Microfluidics Device Gallery. (Left: Mold and PFF device. Center: Resin printed mold of PFF device. Right: Particles flowing through PFF device)" %}
 
