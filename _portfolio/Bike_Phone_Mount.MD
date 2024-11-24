@@ -33,18 +33,17 @@ Top-down modeling was used in Fusion 360 in order to create the design of the mo
 
 | Part                | Material | Rationale |
 | ------------------- | -------- | --------- | 
-| Top Clamp |  | Nylon |
-| Bottom Clamp |  | Nylon |
-| Rotator |  | PLA |
-| Spring-Loaded Knobs |  | Nylon |
-| Cap |  | Nylon |
-| Base |  | Nylon |
-| Spur Gear |  | Nylon |
-| Holder (x2) |  | PLA |
+| Top Clamp | Nylon | The Top Clamp clamps down on the bicycle rod to secure the mount onto the bicycle. |
+| Bottom Clamp | Nylon | The Bottom Clamp clamps down on the bicycle rod to secure the mount onto the bicycle. |
+| Rotator | PLA |  |
+| Spring-Loaded Knobs | Nylon |  |
+| Cap | Nylon |  |
+| Base | Nylon |  |
+| Spur Gear | Nylon |  |
+| Holder (x2) | PLA |  |
 
 # Assembly Instructions
-M5 x 15 mm screws --> clamp
-M3 x 15 mm screw --> rotator
+
 1. Add 4 M5 brass knurled nuts (heat-set inserts) to all holes in the Bottom Clamp.
 2. Add 4 M5 brass knurled nuts (heat-set inserts) to 4 holes on the round face of the Top Clamp.
 3. Add 1 M3 brass knurled nuts (heat-set insert) to the hole in the Rotator.
@@ -56,12 +55,10 @@ M3 x 15 mm screw --> rotator
 9. Place the reamining Knob into remaining open Notch in the same orientation as the first Knob.
 10. While compressing both Knobs, place the rotator into the Rotator Hole. Rotate the Rotator until the Knobs click into place.
 11. Place the Cap over the Rotator and align the holes to the corresponding holes in the Top Clamp. Screw in 4 M5 x 15 mm screws into the holes.
-12. 
-13. 
-14. 
-15. 
-16. 
-17. 
+12. Slide the gear rack parts of the Holders into the Base through the slots, so that the serration of the Holders face each other. Press the Holders as far as possible into the Base.
+13. Align the hole in the center of the Spur Gear with the hole in the center of the Base so that the Gear is inside of the walls of the Base and fits snuggly with the Holders. Screw in a M3 x 15 mm screw through the Spur Gear into the Base until the head of the screw is slighly above the Spur Gear but not touching it.
+14. Screw the Base into the Rotator using the M3 x 15 mm screw protruding from the Base.
+15. Attach a 9/32" x 2-13/16" extension spring to the Spring Holders on the backs of the Holders.
 
 {% include gallery caption="Microfluidics Device Gallery. (Left: Mold and PFF device. Center: Resin printed mold of PFF device. Right: Particles flowing through PFF device)" %}
 
