@@ -19,7 +19,8 @@ Watch the amazing capabilities of the phone mount [here](https://youtu.be/7T2pOA
 
 # Top-Down Modeling
 Top-down modeling was used in Fusion 360 in order to create the design of the mount.
-* 
+* **What is top-down modeling?** Top-dwon modeling is a design approach in Fusion 360 where all of the parts to an assembly are built in one document within the context of the overarching structure. Top-down modeling allows for parts to be created based off of previously designed parts, allowing relationships between parts to be easily made and maintained even when there are other changes. Thus, instead of measuring dimensions for parts to fit together, the a structure can be referenced instead and the new part can be made to fit using the offset feature.
+* **How was top-down modeling used in the bicycle mount?** Top-down modeling was used to create the entire bicycle mount. This method was especially useful when creating parts that fit together, such as the Top and Bottom Clamps fitting flush together, the Spring-Loaded Knobs fitting inside of both the Rotator and the Top Clamp, and the Cap fitting onto the Top Clamp. The Top Clamp was designed first, so it was often used as the reference. Other parts were then designed based off of the Top Clamp, rather than taking new measurements. For example, the extrusion part of the Knobs was designed in reference to the indents in the Top Clamp. 
 
 
 # CAD Model
@@ -31,16 +32,16 @@ Top-down modeling was used in Fusion 360 in order to create the design of the mo
 ![Labeled_Design](/assets/img/PFF_Drawing.jpg)
 
 
-| Part                | Material | Rationale |
+| Part                | Material | Rationale | Photo |
 | ------------------- | -------- | --------- | 
-| Top Clamp | Nylon | The Top Clamp clamps down on the bicycle rod to secure the mount onto the bicycle. |
-| Bottom Clamp | Nylon | The Bottom Clamp clamps down on the bicycle rod to secure the mount onto the bicycle. |
-| Rotator | PLA |  |
-| Spring-Loaded Knobs | Nylon |  |
-| Cap | Nylon |  |
-| Base | Nylon |  |
-| Spur Gear | Nylon |  |
-| Holder (x2) | PLA |  |
+| Top Clamp | Nylon | The Top Clamp clamps down on the bicycle rod to secure the mount onto the bicycle. The Top Clamp also houses the Rotator and Spring-Loaded Knobs, which allow for rotation of the phone. The Top Clamp also controls the height of the phone, ensuring that it does not interefere with any of the mount's geometry. |
+| Bottom Clamp | Nylon | The Bottom Clamp clamps down on the bicycle rod to secure the mount onto the bicycle. Screws are used to tighten the Bottom Clamp to the Top Clamp to remain secure around the bicycle. |
+| Rotator | PLA | The Rotator is rotated clockwise by rotating the phone clockwise in order to easily have the phone in the vertical or horizontal position. |
+| Spring-Loaded Knobs | Nylon | The Spring-Loaded Knobs are securly in the Rotator, 180 degrees away from each other. The spring in between the Knobs is extended in its resting state. At the spring's resting state, the Knobs protrude out of the Rotator into indents in the Top Clamp. There are 4 indents in the Top Clamp, at 0, 90, 180, and 270 degrees. When the Knobs are in the indents and the spring is in its resting position, the Rotator is locked into place with the phone positioned either vertically or horizontally. When the phone is rotated, the Knobs will compress the spring as they exit the Top Clamp indents so that the Knobs do not protrude out of the Rotator, allowing the Rotator to rotate with ease. The Rotator will rotate smoothly for 90 degrees, until the Knobs enter the next Top Clamp indents and the spring expands to its resting position.|
+| Cap | Nylon | The Cap is screwed into the Top Clamp to ensure that the Rotator does not fall out of the Top Clamp. |
+| Base | Nylon | The Base secures the back of the phone to prevent the phone from falling. The Base also houses the Spur Gear and the gear rack portion of the Holders. The Base ensures that the Holders do not move in the y direction, away from the Spur Gear. |
+| Spur Gear | Nylon | The Spur Gear facilitates the horizontal movement of the Holders. |
+| Holder (x2) | PLA | The Holders move horizonally to adjust to any size phone. The Holders have an extension spring secured to their backs so that the Holders will compress as much as possible to squeeze the phone so that it will not fall out of the mount. |
 
 # Assembly Instructions
 
