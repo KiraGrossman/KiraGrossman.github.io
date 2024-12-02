@@ -12,9 +12,9 @@ gallery:
 ---
 
 # Device in Action
-Watch the amazing capabilities of the phone mount [here](https://youtu.be/7T2pOAr_oSM)!
+Watch the amazing capabilities of the phone mount [here](https://youtu.be/e-mjb65F7E4)!
 
-[![7T2pOAr_oSM](https://img.youtube.com/vi/7T2pOAr_oSM/0.jpg)](https://youtu.be/7T2pOAr_oSM)
+[![e-mjb65F7E4](https://img.youtube.com/vi/e-mjb65F7E4/0.jpg)](https://youtu.be/e-mjb65F7E4)
 
 
 # Top-Down Modeling
