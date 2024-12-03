@@ -2,7 +2,7 @@
 title: "Bicycle Phone Mount"
 excerpt: "A 3D printed device that can hold a phone in different orientations while attached to handle bars on a bicycle."
 header:
-  image: assets/img/PFF_Set_Up.jpg
+  image: assets/img/PH_FFront.HEIC
   teaser: /assets/img/PPF_device.jpg
 gallery:
   - image_path: assets/img/PFF_Mold_and_Device.jpg
