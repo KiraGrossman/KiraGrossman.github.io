@@ -12,9 +12,9 @@ gallery:
 ---
 
 # Device in Action
-Watch the truck in the assembly [here](https://youtu.be/e-mjb65F7E4)!
+Watch the truck in the assembly [here](https://youtu.be/p-67j8Mv230)!
 
-[![e-mjb65F7E4](https://img.youtube.com/vi/e-mjb65F7E4/0.jpg)](https://youtu.be/e-mjb65F7E4)
+[![e-mjb65F7E4](https://img.youtube.com/vi/p-67j8Mv230/0.jpg)](https://youtu.be/p-67j8Mv230)
 
 
 # Pairing of Powder Bed Fusion and Generative Design
