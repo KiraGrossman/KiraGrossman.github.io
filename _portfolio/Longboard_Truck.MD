@@ -56,19 +56,19 @@ Fast Facts:
 
 ### Aluminum AlSi10 Mg Model
 * Mass (kg) = 1.21 
-* Volume (mm^3) = 453420.22
-* Maximum von Mises stress (MPa) = 1291.37
+* Volume (mm^3) = 453472.36
+* Maximum von Mises stress (MPa) = 1289.83
 * Safety Factor Limit = 2
 * Minimum Safety Factor =0.19
 * Maximum Displacement Global (mm) = 30.79
 
 ### Nylon 12 Model
 * Mass (kg) = 0.46
-* Volume (mm^3) = 454364.82
-* Maximum von Mises stress (MPa) = 1296.58
+* Volume (mm^3) = 454218.77
+* Maximum von Mises stress (MPa) = 1296.61
 * Safety Factor Limit = 2
 * Minimum Safety Factor = 0.035
-* Maximum Displacement Global (mm) = 1187.47
+* Maximum Displacement Global (mm) = 1187.48
 
 {% include gallery caption="Phone Mount Gallery. (Left: Side of the Phone Mount. Center: Back of the Phone Mount. Right: Sectional View of the Phone Mount to show how the Spring Loaded Knobs and Rotator fit into the Top Clamp)" %}
 
