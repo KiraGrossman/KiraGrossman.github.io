@@ -2,12 +2,12 @@
 title: "Longboard Truck"
 excerpt: "A longboard truck created with generative design and powder bed fusion."
 header:
-  image: assets/img/PH_Front.jpg
-  teaser: /assets/img/PH_FFront.jpg
+  image: assets/img/t1.jpg
+  teaser: /assets/img/t2.jpg
 gallery:
-  - image_path: assets/img/PH_Side.jpg
-  - image_path: assets/img/PH_Back.jpg
-  - image_path: assets/img/SectionalView.png
+  - image_path: assets/img/t3.jpg
+  - image_path: assets/img/t4.jpg
+  - image_path: assets/img/t5.png
    
 ---
 
