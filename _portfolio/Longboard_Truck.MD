@@ -7,7 +7,7 @@ header:
 gallery:
   - image_path: assets/img/t3.jpg
   - image_path: assets/img/t4.jpg
-  - image_path: assets/img/t5.png
+  - image_path: assets/img/t5.jpg
    
 ---
 
@@ -19,13 +19,15 @@ Watch the truck in the assembly [here](https://youtu.be/p-67j8Mv230)!
 
 # Pairing of Powder Bed Fusion and Generative Design
 
-  Generative design is a new and exciting design tool where the design software will make a part for a design based off of constraints set by the user. Models created with generative design can then be printed with powder bed fusion (PBF) to create the ultimate part! Generative design pairs perfectly with PBF as no supports are needed during printing, which is useful as parts created with generative design are often complex shapes. 
-  Currently, PBF and generative design are being used in tandem to create many different parts, especially for the automotive and aerospace industries as PBF parts have good mechanical properties. Generative design with PBF is also perfect for the automotive and aerospace industries as the printed parts have less weight and fewer components than the current solutions. This is desired as less weight enables the automobile or air craft to consume less energy and produce fewer emissions. Also, turning a complex assembly into one part is sought after in these industries to make manufacturing and production easier. Generative design is able to achieve less weight and fewer components by generating less material around the constraints, and these complex shapes can then be accurately printed with PBF to create mechanically sound parts.  
+Generative design is a new and exciting design tool where the design software will make a part for a design based off of constraints set by the user. Models created with generative design can then be printed with powder bed fusion (PBF) to create the ultimate part! Generative design pairs perfectly with PBF as no supports are needed during printing, which is useful as parts created with generative design are often complex shapes. 
+
+Currently, PBF and generative design are being used in tandem to create many different parts, especially for the automotive and aerospace industries as PBF parts have good mechanical properties. Generative design with PBF is also perfect for the automotive and aerospace industries as the printed parts have less weight and fewer components than the current solutions. This is desired as less weight enables the automobile or air craft to consume less energy and produce fewer emissions. Also, turning a complex assembly into one part is sought after in these industries to make manufacturing and production easier. Generative design is able to achieve less weight and fewer components by generating less material around the constraints, and these complex shapes can then be accurately printed with PBF to create mechanically sound parts.  
 
 # Commercial Example: [General Electric’s Turbine Centre Frame](https://www.research.autodesk.com/blog/general-electric-collaboration-targets-jet-engine-efficiency-with-generative-design/)
 
-	General Electric (GE) partnered with Autodesk to used generative design to create a turbine centre frame, which is a structure between the low and high-pressure turbines of a commercial jet engine. The frame is an assembly of 150 components and bears heavy loads. The part is usually made with subtractive and forming processes where 95% of the material is wasted. 
-  GE and Autodesk used generative design to remodel the part into a simpler, lighter, and less wasteful part. The frame went from 150 parts to one single part, greatly simplifying the assembly. Also, less than 1% of the material was wasted in making the part as PBF was used, and all the powder that was not used in the part can be recycled. Additionally, using generative design to create the frame cut its weight by 30%, which will make the plane light, reducing carbon emissions. 
+General Electric (GE) partnered with Autodesk to used generative design to create a turbine centre frame, which is a structure between the low and high-pressure turbines of a commercial jet engine. The frame is an assembly of 150 components and bears heavy loads. The part is usually made with subtractive and forming processes where 95% of the material is wasted. 
+
+GE and Autodesk used generative design to remodel the part into a simpler, lighter, and less wasteful part. The frame went from 150 parts to one single part, greatly simplifying the assembly. Also, less than 1% of the material was wasted in making the part as PBF was used, and all the powder that was not used in the part can be recycled. Additionally, using generative design to create the frame cut its weight by 30%, which will make the plane light, reducing carbon emissions. 
 
 Fast Facts:
 * 1 part instead of 150
@@ -38,15 +40,15 @@ Fast Facts:
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a411f239656090920d?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-![RA1](RA1.png)
-![RA2](RA2.png)
+![RA1](assets/img/RA1.png)
+![RA2](assets/img/RA2.png)
 
 # Nylon CAD Model and Renderings
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4c4f0a75bc2eecb61?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-![RN1](RN1.png)
-![RN2](RN2.png)
+![RN1](assets/img/RN1.png)
+![RN2](assets/img/RN2.png)
 
 #Assembly
 
