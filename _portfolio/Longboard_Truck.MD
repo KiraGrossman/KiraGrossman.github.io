@@ -34,13 +34,19 @@ Fast Facts:
 * 30% lighter
 * Fewer carbon emissions
 
-# Aluminum CAD Model
+# Aluminum CAD Model and Renderings
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a411f239656090920d?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-# Nylon CAD Model
+![RA1](RA1.png)
+![RA2](RA2.png)
+
+# Nylon CAD Model and Renderings
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4c4f0a75bc2eecb61?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+![RN1](RN1.png)
+![RN2](RN2.png)
 
 #Assembly
 
@@ -76,6 +82,6 @@ Fast Facts:
 * Minimum Safety Factor = 0.035
 * Maximum Displacement Global (mm) = 1187.48
 
-{% include gallery caption="Phone Mount Gallery. (Left: Side of the Phone Mount. Center: Back of the Phone Mount. Right: Sectional View of the Phone Mount to show how the Spring Loaded Knobs and Rotator fit into the Top Clamp)" %}
+{% include gallery caption="Longboard Truck Gallery" %}
 
 
