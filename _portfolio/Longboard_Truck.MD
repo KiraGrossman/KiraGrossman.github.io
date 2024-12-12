@@ -40,15 +40,15 @@ Fast Facts:
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a411f239656090920d?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-![RA1](assets/img/RA1.png)
-![RA2](assets/img/RA2.png)
+![RA1](/assets/img/RA1.png)
+![RA2](/assets/img/RA2.png)
 
 # Nylon CAD Model and Renderings
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4c4f0a75bc2eecb61?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-![RN1](assets/img/RN1.png)
-![RN2](assets/img/RN2.png)
+![RN1](/assets/img/RN1.png)
+![RN2](/assets/img/RN2.png)
 
 #Assembly
 
