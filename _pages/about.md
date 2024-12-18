@@ -11,6 +11,7 @@ Kira is interested in careers in designing and building low-cost medical devices
 * George W. Hewlett High School
 * Vanderbilt University - *Expected Graduation May 2025*
   * B.E. Biomedical Engineering
+  * Minor in Digital Fabrication 
 
 ## Internships and Work Experience
 * **Amgen Scholars Program**, *Research Intern*
@@ -33,7 +34,7 @@ Kira is interested in careers in designing and building low-cost medical devices
 
 Kira has learned numerous skills during her time at Vanderbilt, including: 
 
-* SolidWorks
+* SolidWorks (Certificate for SolidWorks CAD Design Associate, Dec. 2024)
 * Fusion 360
 * Generative Design
 * Python
