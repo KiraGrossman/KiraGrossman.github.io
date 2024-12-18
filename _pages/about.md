@@ -33,11 +33,12 @@ Kira is interested in careers in designing and building low-cost medical devices
 
 Kira has learned numerous skills during her time at Vanderbilt, including: 
 
-* MATLAB
-* Python
-* Fusion 360
-* AutoCAD
 * SolidWorks
+* Fusion 360
+* Generative Design
+* Python
+* MATLAB
+* AutoCAD
 * Arduino
 * Soldering
 * Circuit Design
@@ -49,6 +50,9 @@ Kira has learned numerous skills during her time at Vanderbilt, including:
 Digital Fabrication Tools:
 
 * Fused Filament Fabrication (FFF)
+* Laser Cutting
+* Stereolithography (SLA) or Vat Photopolymerization
+* Selective Laser Sintering of Polymers (pSLS)
 
 ## Publications 
 
