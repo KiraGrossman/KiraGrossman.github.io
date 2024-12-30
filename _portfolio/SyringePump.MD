@@ -67,6 +67,10 @@ All parts were custom made to specifically fit the off-the-shelf parts and to ex
 
 The syringe pump was programmed using an [Arduino code](/Syringe_Pump.ino). The code was used to run the motor, thus determining the flow rate of the syringe. The code also controlled the On/Off capabilities of the pump, the LED light, and the direction of movement of the carriage. 
 
+# Circuit Diagram
+
+![circuit](/assets/img/circuit.png)
+
 # Instructions for Use
 
 1. Upload the Arduino code with the desired flow rate to the Arduino Uno via a USB cable. Remove the cable when done.
