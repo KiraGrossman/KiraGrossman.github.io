@@ -1,9 +1,9 @@
 ---
-title: "Bicycle Phone Mount"
-excerpt: "A 3D printed device that can hold a phone in different orientations while attached to handle bars on a bicycle."
+title: "Adapted Toy Car"
+excerpt: "A toy car that was electrically and mechanically adapted so that a child with Spina bifida could operate it."
 header:
-  image: assets/img/PH_Front.jpg
-  teaser: /assets/img/PH_FFront.jpg
+  image: assets/img/car.png
+  teaser: /assets/img/car.png
    
 ---
 
@@ -18,6 +18,14 @@ The child the device was made for was affected by Spina bifida, a birth defect t
 1. The gas pedal was rendered dysfunctional by cutting the connecting wires and replacing it with a functional button underneath the steering wheel so that when pressure is applied to the steering wheel with the upper body, the button is pressed and the car moves. This eliminates the need for strength in the lower limbs to make the car function.
 2. The existing steering wheel was replaced with a larger, easier to grab and maneuver steering wheel.
 3. A potentiometer was installed into the circuitry of the motor to allow for parental control of the speed of the car.
+
+### Original Car:
+
+![ogcar](/assets/img/ogcar.png)
+
+### Modified Car:
+
+![wholecar](/assets/img/wholecar.png)
 
 # Electrical Modifications
 
