@@ -15,9 +15,9 @@ Children, according to the United Nations, have the inherent right to play, yet 
 
 The child the device was made for was affected by Spina bifida, a birth defect that causes the spine and spinal cord to not form properly, often affecting the nerves that control the lower limbs. Spina bifida causes weakness and sometimes paralysis in the lower limbs, resulting in the user being unable to press down on the gas pedal of a toy car and her having difficulty reaching out and steering the car. Thus, three major modifications were made to a battery operated BMW i8 Coupe:
 
-1. *New Gas Pedal* The gas pedal was rendered dysfunctional by cutting the connecting wires and replacing it with a functional button underneath the steering wheel so that when pressure is applied to the steering wheel with the upper body, the button is pressed and the car moves. This eliminates the need for strength in the lower limbs to make the car function.
-2. *New Steering Wheel* The existing steering wheel was replaced with a larger, easier to grab and maneuver steering wheel.
-3. *Speed Controller* A potentiometer was installed into the circuitry of the motor to allow for parental control of the speed of the car.
+1. **New Gas Pedal** The gas pedal was rendered dysfunctional by cutting the connecting wires and replacing it with a functional button underneath the steering wheel so that when pressure is applied to the steering wheel with the upper body, the button is pressed and the car moves. This eliminates the need for strength in the lower limbs to make the car function.
+2. **New Steering Wheel** The existing steering wheel was replaced with a larger, easier to grab and maneuver steering wheel.
+3. **Speed Controller** A potentiometer was installed into the circuitry of the motor to allow for parental control of the speed of the car.
 
 ### Original Car:
 
