@@ -25,9 +25,15 @@ Small, inaccessible buttons on toys exclude children who do not have the motor s
 
 # Before and After Pictures
 
+**Before:**
+
 ![before](/assets/img/beforeC.png)
 
+**After**
+
 ![after](/assets/img/afterC.png)
+
+**Side-by-Side**
 
 ![compareC](/assets/img/compareC.png)
 
