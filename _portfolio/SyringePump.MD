@@ -21,6 +21,8 @@ gallery:
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a438d5332e8cbad27e?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
+# Animation of the Linear Actuator Component https://youtu.be/uhMx4PnsLS8
+
 # Off-the-Shelf Parts
 
 | Part | Quantity |
