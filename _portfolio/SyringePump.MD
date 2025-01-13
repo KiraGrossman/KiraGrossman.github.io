@@ -25,7 +25,7 @@ gallery:
 
 Watch an animation of the Linear Actuator [here](https://youtu.be/uhMx4PnsLS8)!
 
-[![e-mjb65F7E4](https://img.youtube.com/vi/uhMx4PnsLS8.jpg)](https://youtu.be/uhMx4PnsLS8)
+[![uhMx4PnsLS8](https://img.youtube.com/vi/uhMx4PnsLS8.jpg)](https://youtu.be/uhMx4PnsLS8)
 
 # Off-the-Shelf Parts
 
