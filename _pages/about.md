@@ -6,7 +6,7 @@ title: "About Kira Grossman"
 
 ## Education
 
-Kira is interested in careers in designing and building low-cost medical devices using 3D printing. In her free time, she was a captain on the Vanderbilt Mascot Team and enjoys hiking, baking, and the game Boggle.
+Kira is interested in careers in designing and building low-cost medical devices using 3D printing. In her free time, she was captain of the Vanderbilt Mascot Team and enjoys hiking, baking, and the game Boggle.
 
 * George W. Hewlett High School
 * Vanderbilt University - *Graduated May 2025*
