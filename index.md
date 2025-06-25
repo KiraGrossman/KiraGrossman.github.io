@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Kira is senior at Vanderbilt University studying biomedical engineering. She is passionate about building low-cost medical devices and her work in Vanderbilt Athletics with the Spirit Team. This web page contains all of her relevant projects and academic information."
+excerpt: "Kira recently graduated Vanderbilt University with a Bachelor of Engineering in Biomedical Engineering and a minor in Digital Fabrication. She is passionate about building low-cost medical devices and her work in Vanderbilt Athletics with the Spirit Team. This web page contains all of her relevant projects and academic information."
 feature_row:
 #  - image_path: assets/img/phone_back.png
 #    alt: "Custom Phone Case"
