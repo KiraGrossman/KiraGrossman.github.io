@@ -13,7 +13,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Kira Grossman"
 title_separator          : "-"
-subtitle                 : "2024 Duke Amgen Scholar | Student at Vanderbilt University"
+subtitle                 : "2024 Duke Amgen Scholar | Recent Graduate of Vanderbilt University"
 name                     : &name "Kira Grossman" # &name is a YAML anchor which can be *referenced later
 description              : &description "Kira's Web Page"
 url                      : https://KiraGrossman.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
