@@ -2,10 +2,10 @@
 main:
   - title: "Portfolio"
     url: /portfolio/
-  - title: "About"
-    url: /_pages/about
   - title: "Art Gallery"
     url: /art-gallery/
+  - title: "About"
+    url: /_pages/about
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
