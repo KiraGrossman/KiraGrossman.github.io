@@ -210,7 +210,14 @@ defaults:
       layout: single
       author_profile: false
       share: true
-
+  # _artgallery
+  - scope:
+      path: "_artgallery"
+      type: artgallery
+    values:
+      layout: single
+      author_profile: false
+      share: true
 
 # Sass/SCSS
 sass:
