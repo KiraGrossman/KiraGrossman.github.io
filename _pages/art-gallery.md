@@ -1,16 +1,24 @@
 ---
 feature_row:
   - image_path: assets/img/woods.jpeg
-    alt: "Custom Phone Case"
-    title: "Custom Phone Case"
-    excerpt: "3D printed with hand-drawn design and text."
-  - image_path: assets/img/car.png
-    alt: "placeholder image 2"
-    title: "Adapted Toy Car"
-    excerpt: "[Toy car adapted so that a child with spina bifida, which causes weakness in the lower limbs, could operate it.](https://kiragrossman.github.io/portfolio/Car/)"
-  - image_path: assets/img/toy_cactus.png
-    title: "Adapted Children's Toy"
-    excerpt: "Larger, easier to press button wired to toy to make it accessible for children with disabilities. "
+    alt: "Out for a Hike"
+    title: "Out for a Hike"
+    excerpt: "Charcoal on grey-toned paper. Final project. 2024"
+  - image_path: assets/img/bodice.jpeg
+    alt: "Bodice"
+    title: "Bodice"
+    excerpt: "Charcoal on grey-toned paper. Still life drawing. 2024"
+  - image_path: assets/img/kirkland.png
+    title: "Kirkland Hall"
+    excerpt: "Graphite on drawing paper. 3 point perspective of Kirkland Hall at Vanderbilt University. 2024"
+  - image_path: assets/img/hand.jpeg
+    alt: "Hand"
+    title: "Hand"
+    excerpt: "Graphite on mixed media paper. Abstract study. 2024"
+  - image_path: assets/img/clue.jpeg
+    alt: "Clue"
+    title: "Clue"
+    excerpt: "Compressed charcoal on drawing paper. Negative space study. 2024"
 ---
 
 {% include feature_row %}
