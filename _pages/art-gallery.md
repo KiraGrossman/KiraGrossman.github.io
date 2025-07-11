@@ -8,7 +8,7 @@ feature_row:
     alt: "Bodice"
     title: "Bodice"
     excerpt: "Charcoal on grey-toned paper. Still life drawing. 2024"
-  - image_path: assets/img/kirkland.png
+  - image_path: assets/img/kirkland.jpeg
     title: "Kirkland Hall"
     excerpt: "Graphite on drawing paper. 3 point perspective of Kirkland Hall at Vanderbilt University. 2024"
   - image_path: assets/img/hand.jpeg
