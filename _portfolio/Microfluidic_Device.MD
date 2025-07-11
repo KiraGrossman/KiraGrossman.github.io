@@ -74,7 +74,7 @@ A mold for the device was created using stereolithography (SLA) 3D printing. Hig
 ### Output Channel y Position
   1. Divide <img src="/assets/img/Wb.png" alt="Wb" width="35" height="30"> = 17.8 mm by 2 to achieve the y position above the midline of the broadened segment. <img src="/assets/img/Wb.png" alt="Wb" width="35" height="30"> = 8.9 mm = 8900 µm.
   2. Plug in all variables to obtain the y value for the smallest particle and the y position for the largest particle.           
-<img src="/assets/img/ysl.png" alt="ysl" width="450" height="390">
+<img src="/assets/img/ysl2.png" alt="ysl2" width="450" height="390">
   3. Determine the midpoint between the two y positions          
 <img src="/assets/img/midpoint.png" alt="midpoint" width="350" height="290">          
 
@@ -120,7 +120,7 @@ A mold for the device was created using stereolithography (SLA) 3D printing. Hig
 11. Mix together PDMS and curing agent at a weight ratio of 10:1, respectively.
 12. Pour the PDMS mixture into the mold.
 13. Put the mold with the mixture into a vacuum chamber for 30 minutes to degas the mixture.
-14. Place the mold into an over at 80 degrees Celsius and cure for 3 hours.
+14. Place the mold into an oven at 80 degrees Celsius and cure for 3 hours.
 15. Demold the PDMS device.
 16. Bond the PDMS device to a glass coverslip using PlasmaFlo PDC-FMG plasma cleaner.
 17. Sterilize device in an autoclave.
