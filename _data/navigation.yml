@@ -3,7 +3,7 @@ main:
   - title: "Portfolio"
     url: /portfolio/
   - title: "Art Gallery"
-    url: /art-gallery/
+    url: /_pages/art-gallery
   - title: "About"
     url: /_pages/about
   # - title: "Sample Collections"
