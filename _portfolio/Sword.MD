@@ -41,9 +41,9 @@ Mechanically stable, light-weight, easy-to-assemble sword! This sword was used a
 # Engineering Drawings and Relevant Specifications
 
 | Part | Drawing |
-| Blade |<img src="/assets/img/Blade.png" alt="Blade" width="100" height="200"> |
-| Support 1 |<img src="/assets/img/Support2.png" alt="Support2" width="75" height="100"> |
-| Crossguard |<img src="/assets/img/Cross.png" alt="Cross" width="125" height="150"> |
+| Blade |<img src="/assets/img/Blade.png" alt="Blade" width="1000" height="2000"> |
+| Support 1 |<img src="/assets/img/Support2.png" alt="Support2" width="400" height="500"> |
+| Crossguard |<img src="/assets/img/Cross.png" alt="Cross" width="300" height="400"> |
 | Support 2 |<img src="/assets/img/Support1.png" alt="Support1" width="150" height="175"> |
 | Handle |![Selected Specifications5](/assets/img/Shandle.png) |
 
