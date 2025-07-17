@@ -13,7 +13,9 @@ gallery:
 
 # Description
 
-Mechanically stable, light-weight, easy-to-assemble sword! This sword was used as a prop by Vanderbilt Mascot Mr. C to win 2nd place at the National Dance Alliance Mascot Competition in 2025.
+Mechanically stable, light-weight, easy-to-assemble sword! This sword was used as a prop by Vanderbilt Mascot Mr. Commodore (Mr. C) to win 2nd place at the National Dance Alliance Mascot Competition in 2025.
+
+Watch Mr. C's competition skit here!
 
 ![Pliers_GIF](/assets/img/Pliers_GIF.gif)
 
@@ -44,7 +46,8 @@ Mechanically stable, light-weight, easy-to-assemble sword! This sword was used a
 ![Selected Specifications1](/assets/img/Pliers_Specs1.png)
 ![Selected Specifications2](/assets/img/Pliers_Specs2.png)
 
-All parts were custom made using FFF printing
+All parts were custom made using FFF printing.
+All measurements are in inches.
 
 {% include gallery caption="Iterations of Pliers" %}
 
