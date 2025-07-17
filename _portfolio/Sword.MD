@@ -2,14 +2,15 @@
 title: "Sword"
 excerpt: "Multi-part sword printed with Fused Filament Fabrication 3D printing for mascot Mr. C in competition."
 header:
-  image: assets/img/Sword.png
+  image: assets/img/HSword.png
   teaser: assets/img/VU509010.jpg
 gallery:
-  - image_path: assets/img/HSword.png
-  #- image_path: assets/img/P_It.jpg
+  - image_path: assets/img/Sword.png
+ # - image_path: assets/img/P_It.jpg
   #- image_path: assets/img/P_Side.jpg
    
 ---
+
 
 # Description
 
@@ -40,10 +41,10 @@ Mechanically stable, light-weight, easy-to-assemble sword! This sword was used a
 # Engineering Drawings and Relevant Specifications
 
 | Part | Drawing |
-| Blade |![Selected Specifications1](/assets/img/Blade.png) |
-| Support 1 |![Selected Specifications2](/assets/img/Support2.png) |
-| Crossguard |![Selected Specifications3](/assets/img/Cross.png) |
-| Support 2 |![Selected Specifications4](/assets/img/Support1.png) |
+| Blade |![Selected Specifications1](<img src="/assets/img/Blade.png" alt="Blade" width="35" height="30">) |
+| Support 1 |![Selected Specifications2](<img src="/assets/img/Support2.png" alt="Support2" width="35" height="30">) |
+| Crossguard |![Selected Specifications3](<img src="/assets/img/Cross.png" alt="Cross" width="35" height="30">) |
+| Support 2 |![Selected Specifications4](<img src="/assets/img/Support1.png" alt="Support1" width="35" height="30">) |
 | Handle |![Selected Specifications5](/assets/img/Shandle.png) |
 
 All parts were custom made using FFF printing.
