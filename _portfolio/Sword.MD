@@ -41,10 +41,10 @@ Mechanically stable, light-weight, easy-to-assemble sword! This sword was used a
 # Engineering Drawings and Relevant Specifications
 
 | Part | Drawing |
-| Blade |![Selected Specifications1](<img src="/assets/img/Blade.png" alt="Blade" width="35" height="30">) |
-| Support 1 |![Selected Specifications2](<img src="/assets/img/Support2.png" alt="Support2" width="35" height="30">) |
-| Crossguard |![Selected Specifications3](<img src="/assets/img/Cross.png" alt="Cross" width="35" height="30">) |
-| Support 2 |![Selected Specifications4](<img src="/assets/img/Support1.png" alt="Support1" width="35" height="30">) |
+| Blade |<img src="/assets/img/Blade.png" alt="Blade" width="35" height="30"> |
+| Support 1 |<img src="/assets/img/Support2.png" alt="Support2" width="35" height="30"> |
+| Crossguard |<img src="/assets/img/Cross.png" alt="Cross" width="35" height="30"> |
+| Support 2 |<img src="/assets/img/Support1.png" alt="Support1" width="35" height="30"> |
 | Handle |![Selected Specifications5](/assets/img/Shandle.png) |
 
 All parts were custom made using FFF printing.
