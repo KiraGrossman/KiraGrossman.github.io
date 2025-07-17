@@ -2,22 +2,18 @@
 title: "Sword"
 excerpt: "Multi-part sword printed with Fused Filament Fabrication 3D printing for mascot Mr. C in competition."
 header:
-  image: assets/img/P_Mug.jpg
-  teaser: assets/img/P1.jpg
+  image: assets/img/Sword.png
+  teaser: assets/img/VU509010.jpg
 gallery:
-  - image_path: assets/img/P2.jpg
-  - image_path: assets/img/P_It.jpg
-  - image_path: assets/img/P_Side.jpg
+  - image_path: assets/img/HSword.png
+  #- image_path: assets/img/P_It.jpg
+  #- image_path: assets/img/P_Side.jpg
    
 ---
 
 # Description
 
 Mechanically stable, light-weight, easy-to-assemble sword! This sword was used as a prop by Vanderbilt Mascot Mr. Commodore (Mr. C) to win 2nd place at the National Dance Alliance Mascot Competition in 2025.
-
-Watch Mr. C's competition skit here!
-
-![Pliers_GIF](/assets/img/Pliers_GIF.gif)
 
 * **Mechanically Stable:** Even though the sword is a whopping 5 feet tall, it is stable and can be moved and handled without parts shaking or bending due to gravity!
 * **Light-weight:** Made of PLA the sword, despite its size, is light-weight, durable, and easy to handle. 
@@ -36,18 +32,22 @@ Watch Mr. C's competition skit here!
 
 **Facade**
 * The sword has the words "Go Dores" debossed into the exterior of one side of the blade. This was for school spirit and dramatic effect in the competition.
-* The entire sword was coated in automotive primer to allow for other paints to stick to the sword. The base, cross guard, and depossed letters were painted black, the handle had faux-leather adhered to it with super glue, and the blade was painted silver and buffed with silver wax finish.
+* The entire sword was coated in automotive primer to allow for other paints to stick to the sword. The base, crossguard, and depossed letters were painted black, the handle had faux-leather adhered to it with super glue, and the blade was painted silver and buffed with silver wax finish.
 
 # CAD Model
 <iframe src="https://vanderbilt1291.autodesk360.com/shares/public/SH30dd5QT870c25f12fcee4531a13d4c1bee?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 # Engineering Drawings and Relevant Specifications
 
-![Selected Specifications1](/assets/img/Pliers_Specs1.png)
-![Selected Specifications2](/assets/img/Pliers_Specs2.png)
+| Part | Drawing |
+| Blade |![Selected Specifications1](/assets/img/Blade.png) |
+| Support 1 |![Selected Specifications2](/assets/img/Support2.png) |
+| Crossguard |![Selected Specifications3](/assets/img/Cross.png) |
+| Support 2 |![Selected Specifications4](/assets/img/Support1.png) |
+| Handle |![Selected Specifications5](/assets/img/Shandle.png) |
 
 All parts were custom made using FFF printing.
 All measurements are in inches.
 
-{% include gallery caption="Iterations of Pliers" %}
+{% include gallery caption="More photos" %}
 
