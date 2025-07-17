@@ -5,7 +5,7 @@ header:
   image: assets/img/VU509010.jpg
   teaser: assets/img/HSword.png
 gallery:
-  - image_path: <img src="/assets/img/Sword.png" alt="Sword" width="150" height="175">
+  - image_path: assets/img/Sword.png
  # - image_path: assets/img/P_It.jpg
   #- image_path: assets/img/P_Side.jpg
    
@@ -41,8 +41,8 @@ Mechanically stable, light-weight, easy-to-assemble sword! This sword was used a
 # Engineering Drawings and Relevant Specifications
 
 | Part | Drawing |
-| Blade |<img src="/assets/img/Blade.png" alt="Blade" width="1000" height="2000"> |
-| Support 1 |<img src="/assets/img/Support2.png" alt="Support2" width="400" height="500"> |
+| Blade |<img src="/assets/img/Blade.png" alt="Blade" width="300" height="400"> |
+| Support 1 |<img src="/assets/img/Support2.png" alt="Support2" width="300" height="400"> |
 | Crossguard |<img src="/assets/img/Cross.png" alt="Cross" width="300" height="400"> |
 | Support 2 |<img src="/assets/img/Support1.png" alt="Support1" width="150" height="175"> |
 | Handle |![Selected Specifications5](/assets/img/Shandle.png) |
