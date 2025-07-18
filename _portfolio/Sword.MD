@@ -3,9 +3,9 @@ title: "Sword"
 excerpt: "Multi-part sword printed with Fused Filament Fabrication 3D printing for mascot Mr. C in competition."
 header:
   image: assets/img/mrc.png
-  teaser: assets/img/HSword.png
+  teaser: assets/img/Sword2.png
 gallery:
-  - image_path: assets/img/Sword2.png
+  - image_path: assets/img/HSword.png
  # - image_path: assets/img/P_It.jpg
   #- image_path: assets/img/P_Side.jpg
    
@@ -33,7 +33,7 @@ Mechanically stable, light-weight, easy-to-assemble sword! This sword was used a
 
 **Facade**
 * The sword has the words "Go Dores" debossed into the exterior of one side of the blade. This was for school spirit and dramatic effect in the competition.
-* The entire sword was coated in automotive primer to allow for other paints to stick to the sword. The base, crossguard, and depossed letters were painted black, the handle had faux-leather adhered to it with super glue, and the blade was painted silver and buffed with silver wax finish.
+* The entire sword was coated in automotive primer to allow for other paints to stick to the sword. The base, cross-guard, and debossed letters were painted black, the handle had faux-leather adhered to it with super glue, and the blade was painted silver and buffed with silver wax finish.
 
 # CAD Model
 <iframe src="https://vanderbilt1291.autodesk360.com/shares/public/SH30dd5QT870c25f12fcee4531a13d4c1bee?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
@@ -43,12 +43,12 @@ Mechanically stable, light-weight, easy-to-assemble sword! This sword was used a
 | Part | Drawing |
 | Blade |<img src="/assets/img/Blade.png" alt="Blade" width="300" height="400"> |
 | Support 1 |<img src="/assets/img/Support2.png" alt="Support2" width="300" height="400"> |
-| Crossguard |<img src="/assets/img/Cross.png" alt="Cross" width="300" height="400"> |
+| Cross-guard |<img src="/assets/img/Cross.png" alt="Cross" width="300" height="400"> |
 | Support 2 |<img src="/assets/img/Support1.png" alt="Support1" width="150" height="175"> |
 | Handle |![Selected Specifications5](/assets/img/Shandle.png) |
 
 All parts were custom made using FFF printing.
 All measurements are in inches.
 
-{% include gallery caption="More photos" %}
+{% include gallery caption="" %}
 
