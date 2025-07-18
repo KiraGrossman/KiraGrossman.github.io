@@ -2,10 +2,10 @@
 title: "Sword"
 excerpt: "Multi-part sword printed with Fused Filament Fabrication 3D printing for mascot Mr. C in competition."
 header:
-  image: assets/img/VU509010.jpg
+  image: assets/img/mrc.png
   teaser: assets/img/HSword.png
 gallery:
-  - image_path: assets/img/Sword.png
+  - image_path: assets/img/Sword2.png
  # - image_path: assets/img/P_It.jpg
   #- image_path: assets/img/P_Side.jpg
    
