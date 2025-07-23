@@ -79,7 +79,7 @@ Thermoplastic polyurethane (TPU) was the filament used to print the phone case.
 # Slicer Settings
 
 | Part | Setting | Rationale |
-| ----------- | ----------- |
+| ---- | ------- | --------- |
 | Extrusion | Elastic | TPU is an elastic material |
 | Bed Temperature | 50 degrees Celsius | Help prevent stringing |
 | Extruder Temperature | 235 degrees Celsius for the first layer and 230 degrees Celsius for all other layers| Help prevent stringing |
