@@ -26,14 +26,10 @@ gallery:
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a47aa6b55bd140effb?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-##  #Rationale
-
-## #Watch an animation of the Linear Actuator [here](https://youtu.be/uhMx4PnsLS8)!
-
 # Rationale
 
 | Aspect | Rationale |
-| ----------- | ----------- |
+| ------ | --------- |
 | Walls | The thickness of the walls was chosen in order to allow for proper actuation of the volume and power buttons and the ringer switch. Thicker case walls would prevent fingers from being able to reach the buttons and switch. Thus, the walls were thinned to the smallest possible thickness that would still be protective to the phone. To protect the touchscreen, the height of the case walls was increased to above the height of the phone and screen protector and a lip was added to the phone case. Increasing the height to 8.4 mm, which is above the screen protector, ensures that no part of the screen will touch the surface it is laying on while resting screen side down.  |
 | Lip | Adding a lip to the case prevents the phone from falling out of the case when held screen-side-down. The lip also protects the screen as the lip extends over the phone slightly and thus is the first point of contact, rather than the screen, to the surface that the phone is laying screen side down on, preventing the screen from receiving any scratches from the surface. |
 | Back | The back of the case had a thickness of 4.2 mm to ensure that the camera lenses would be protected while the phone with the case on was placed on a surface with the screen facing up. With a thickness of 4.2 mm, the camera lenses would not touch the surface as the lenses have a thickness of 4.18 mm. |
