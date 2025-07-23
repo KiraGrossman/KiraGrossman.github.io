@@ -36,7 +36,8 @@ gallery:
 | Button and Switch Holes | To allow for better access to the power and volume buttons and ringer switch, the width of the holes for these features were expanded slightly larger than the true size of the feature so that fingers can reach the buttons. Chamfers and fillets of the edges were added to the buttons and switch holes in order to increase accessibility as the chamfers create a larger hole at the outside surface of the case that narrows and the fillets round off the edges created by the chamfers for a smooth feel. | 
 | Charging Port Hole | The charging port hole was widened larger than the actual charging port in order to allow a charger to sit flush against the phone. The corners were rounded for aesthetic purposes. |
 | Speakers | For aesthetic purposes, the corners of the speaker holes were rounded with the fillet tool.  |
-**Note:** All corners of all holes and of the case itself were rounded for aesthetic purposes.
+
+**Note:** All corners of all holes and of the case itself were rounded for aesthetic purposes
 
 # Custom Design
 
