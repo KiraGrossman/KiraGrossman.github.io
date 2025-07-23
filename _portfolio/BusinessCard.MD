@@ -2,11 +2,11 @@
 title: "Business Card"
 excerpt: "Laser engraved business card made using a laser cutter."
 header:
-  image: assets/img/BCfront.jpg
-  teaser: assets/img/BCback.jpg
+  image: assets/img/BCfront.jpeg
+  teaser: assets/img/BCback.jpeg
 gallery:
-  - image_path: assets/img/BCfront.jpg
-  - image_path: assets/img/BCback.jpg
+  - image_path: assets/img/BCfront.jpeg
+  - image_path: assets/img/BCback.jpeg
   #- image_path: assets/img/P_Side.jpg
    
 ---
