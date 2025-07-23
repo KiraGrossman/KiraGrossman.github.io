@@ -22,9 +22,11 @@ The front of the card has my contact information and a Vanderbilt logo while the
 
 # CAD Design for the Front
 
+![CADfront](/assets/img/CADfront.png)
 
 # CAD Design for the Back
 
+![CADback](/assets/img/CADback.png)
 
 # Laser Cutter/Engraver Settings
 
