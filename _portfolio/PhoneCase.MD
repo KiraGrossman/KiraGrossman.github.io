@@ -26,9 +26,12 @@ gallery:
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a47aa6b55bd140effb?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
+
 # Engineering Drawing
 
 ![Phone_ED](/assets/img/Phone_ED.png)
+***Note:** all dimensions in mm*
+
 
 # Rationale
 
@@ -41,7 +44,7 @@ gallery:
 | Charging Port Hole | The charging port hole was widened larger than the actual charging port in order to allow a charger to sit flush against the phone. The corners were rounded for aesthetic purposes. |
 | Speakers | For aesthetic purposes, the corners of the speaker holes were rounded with the fillet tool.  |
 
-**Note:** All corners of all holes and of the case itself were rounded for aesthetic purposes
+***Note:** All corners of all holes and of the case itself were rounded for aesthetic purposes*
 
 # Custom Design
 
