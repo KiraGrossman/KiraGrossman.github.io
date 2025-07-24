@@ -97,4 +97,4 @@ Thermoplastic polyurethane (TPU) was the filament used to print the phone case.
 
 
 
-{% include gallery caption="Iterations of the phone case (leftmost picture) and images of final product (right three photos)" %}
+{% include gallery caption="Iterations of the phone case (leftmost picture) and images of final product (right four photos)" %}
