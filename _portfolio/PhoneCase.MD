@@ -9,6 +9,7 @@ gallery:
   - image_path: assets/img/caseside1.jpg
   - image_path: assets/img/casefront.jpg
   - image_path: assets/img/casecharger.jpg
+  - image_path: assets/img/caseback.jpg
 ---
 
 # Significance
