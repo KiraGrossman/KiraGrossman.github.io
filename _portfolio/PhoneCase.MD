@@ -2,13 +2,13 @@
 title: "Phone Case"
 excerpt: "A FFF 3D printed phone case for an iPhone 14 Pro with a custom design on the back."
 header:
-  image: /assets/img/phone_back.png
-  teaser: /assets/img/phone_back.png
+  image: /assets/img/caseside2.png
+  teaser: /assets/img/caseback.jpg
 gallery:
   - image_path: assets/img/iterations.png
-#  - image_path: assets/img/sp2.png
-#  - image_path: assets/img/sp3.png
-   
+  - image_path: assets/img/caseside1.jpg
+  - image_path: assets/img/casefront.jpg
+  - image_path: assets/img/casecharger.jpg
 ---
 
 # Significance
@@ -96,4 +96,4 @@ Thermoplastic polyurethane (TPU) was the filament used to print the phone case.
 
 
 
-{% include gallery caption="Iterations of the phone case" %}
+{% include gallery caption="Iterations of the phone case (leftmost picture) and images of final product (right three photos)" %}
