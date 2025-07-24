@@ -2,7 +2,7 @@
 title: "Phone Case"
 excerpt: "A FFF 3D printed phone case for an iPhone 14 Pro with a custom design on the back."
 header:
-  image: /assets/img/caseside2.png
+  image: /assets/img/caseside2.jpg
   teaser: /assets/img/caseback.jpg
 gallery:
   - image_path: assets/img/iterations.png
