@@ -2,12 +2,12 @@
 title: "Phone Case"
 excerpt: "A FFF 3D printed phone case for an iPhone 14 Pro with a custom design on the back."
 header:
-  image: /assets/img/front_good.png
-  teaser: /assets/img/sp1.png
+  image: /assets/img/phone_back.png
+  teaser: /assets/img/phone_back.png
 gallery:
-  - image_path: assets/img/sp1.png
-  - image_path: assets/img/sp2.png
-  - image_path: assets/img/sp3.png
+#  - image_path: assets/img/sp1.png
+#  - image_path: assets/img/sp2.png
+#  - image_path: assets/img/sp3.png
    
 ---
 
@@ -74,7 +74,6 @@ Thermoplastic polyurethane (TPU) was the filament used to print the phone case.
 * No significant warping
   * **Rationale:** Desired while printing the phone case to ensure that the case would fit the phone well
 
-![circuit](/assets/img/circuit.png)
 
 # Slicer Settings
 
@@ -87,7 +86,7 @@ Thermoplastic polyurethane (TPU) was the filament used to print the phone case.
 | Number of Solid Top and Bottom layers | 5 | Make the case stronger and more protective with more material |
 | Number of Perimeters | 3 | The walls were thin enough to have no infill with this setting |
 
-# Discussion
 
 
-{% include gallery caption="Syringe Pump Gallery" %}
+
+{% include gallery caption="" %}
