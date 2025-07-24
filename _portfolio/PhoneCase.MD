@@ -5,7 +5,7 @@ header:
   image: /assets/img/phone_back.png
   teaser: /assets/img/phone_back.png
 gallery:
-#  - image_path: assets/img/sp1.png
+  - image_path: assets/img/iterations.png
 #  - image_path: assets/img/sp2.png
 #  - image_path: assets/img/sp3.png
    
@@ -25,6 +25,10 @@ gallery:
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a47aa6b55bd140effb?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+# Engineering Drawing
+
+![Phone_ED](/assets/img/Phone_ED.png)
 
 # Rationale
 
@@ -89,4 +93,4 @@ Thermoplastic polyurethane (TPU) was the filament used to print the phone case.
 
 
 
-{% include gallery caption="" %}
+{% include gallery caption="Iterations of the phone case" %}
