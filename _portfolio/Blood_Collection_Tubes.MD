@@ -6,7 +6,7 @@ header:
   teaser: /assets/img/pbtCover.png
 gallery:
   - image_path: assets/img/pbtRack.png
-  - image_path: assets/img/pbtSection.jpg
+  - image_path: assets/img/pbtSection.png
   - image_path: assets/img/pbtRend.png
    
 ---
