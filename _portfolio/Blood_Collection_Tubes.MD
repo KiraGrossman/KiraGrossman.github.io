@@ -36,12 +36,14 @@ Additionally, this design reduces the handling of samples, decreasing the risk o
 
 # Product Development Steps
 
+![proDev](/assets/img/proDev.jpg)
 
 # Product Classification for FDA Regulated Products
-* Our product is regulated by the FDA as a Medical Device Class II
-* * This classification is due to the handling of biological specimens which presents a moderate risk level that requires performance standards for safety and effectiveness
-* * There is moderate risk due to the negative pressure that must be maintained inside the tube, which is regulated to pediatric patients
-* * This Class II medical device is also not at high risk, i.e. heart stent, which would require another level of invasiveness and category of safety measures/testing
+Our product is regulated by the FDA as a Medical Device Class II
+
+* This classification is due to the handling of biological specimens which presents a moderate risk level that requires performance standards for safety and effectiveness
+* There is moderate risk due to the negative pressure that must be maintained inside the tube, which is regulated to pediatric patients
+* This Class II medical device is also not at high risk, i.e. heart stent, which would require another level of invasiveness and category of safety measures/testing
 
 
 # Regulator Pathway Description
