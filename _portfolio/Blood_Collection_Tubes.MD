@@ -19,19 +19,19 @@ Watch the short informative video about the blood collection tubes [here](https:
 
 
 # Problem Statement
-     A way to address the **human error, contamination, and long turnaround times** that occur from the **incompatibility** between pediatric blood tubes and automation equipment by modifying the pediatric tubes so that VUMC medical staff and researchers do not have to manually aliquot the sample into a compatible tube.
+A way to address the **human error, contamination, and long turnaround times** that occur from the **incompatibility** between pediatric blood tubes and automation equipment by modifying the pediatric tubes so that VUMC medical staff and researchers do not have to manually aliquot the sample into a compatible tube.
 
 
 # Solution Statement
-     Our proposed solution is a pediatric blood collection tube designed to bridge the gap between current pediatric tubes and the automation systems commonly used in hospitals, specifically at VUMC. 
+Our proposed solution is a pediatric blood collection tube designed to bridge the gap between current pediatric tubes and the automation systems commonly used in hospitals, specifically at VUMC. 
 
 * The key feature of our design is a dual-geometry structure: 
   * The external geometry mirrors that of an adult-sized tube, allowing seamless compatibility with automated laboratory equipment. This eliminates the need for manual aliquoting, a process that not only increases the risk of human error and contamination but also contributes to longer turnaround times for test results.
   * Internally, the tube is designed to maintain the same volume capacity as current pediatric tubes, ensuring that blood samples collected from pediatric patients remain appropriate for their needs. 
 
-     By creating a tube with this dual-geometry structure, we ensure that the sample size is optimized for pediatric use while making it compatible with existing hospital infrastructure. 
+By creating a tube with this dual-geometry structure, we ensure that the sample size is optimized for pediatric use while making it compatible with existing hospital infrastructure. 
 
-     Additionally, this design reduces the handling of samples, decreasing the risk of contamination and improving overall efficiency in clinical workflows. Our solution addresses these critical issues, providing a more reliable, streamlined process for both medical staff and researchers.
+Additionally, this design reduces the handling of samples, decreasing the risk of contamination and improving overall efficiency in clinical workflows. Our solution addresses these critical issues, providing a more reliable, streamlined process for both medical staff and researchers.
 
 
 # Product Development Steps
