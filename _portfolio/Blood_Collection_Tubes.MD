@@ -2,12 +2,12 @@
 title: "Pediatric Blood Collection Tubes"
 excerpt: "A novel 3D printed pediatric blood collection tube that can fit into automation machines."
 header:
-  image: assets/img/PH_Front.jpg
-  teaser: /assets/img/PH_FFront.jpg
+  image: assets/img/pbtCover.png
+  teaser: /assets/img/pbtCover.png
 gallery:
-  - image_path: assets/img/PH_Side.jpg
-  - image_path: assets/img/PH_Back.jpg
-  - image_path: assets/img/SectionalView.png
+  - image_path: assets/img/pbtRack.png
+  - image_path: assets/img/pbtSection.jpg
+  - image_path: assets/img/pbtRend.png
    
 ---
 
