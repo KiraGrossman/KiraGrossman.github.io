@@ -36,7 +36,7 @@ Additionally, this design reduces the handling of samples, decreasing the risk o
 
 # Product Development Steps
 
-![proDev](/assets/img/proDev.jpg)
+![proDev](/assets/img/proDev.png)
 
 # Product Classification for FDA Regulated Products
 Our product is regulated by the FDA as a Medical Device Class II
