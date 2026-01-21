@@ -26,16 +26,23 @@ Internally, the tube is designed to maintain the same volume capacity as current
 # Product Development Steps
 
 # Product Classification for FDA Regulated Products
-*Our product is regulated by the FDA as a Medical Device Class II
-**This classification is due to the handling of biological specimens which presents a moderate risk level that requires performance standards for safety and effectiveness
-**There is moderate risk due to the negative pressure that must be maintained inside the tube, which is regulated to pediatric patients
-**This Class II medical device is also not at high risk, i.e. heart stent, which would require another level of invasiveness and category of safety measures/testing
+* Our product is regulated by the FDA as a Medical Device Class II
+* * This classification is due to the handling of biological specimens which presents a moderate risk level that requires performance standards for safety and effectiveness
+* * There is moderate risk due to the negative pressure that must be maintained inside the tube, which is regulated to pediatric patients
+* * This Class II medical device is also not at high risk, i.e. heart stent, which would require another level of invasiveness and category of safety measures/testing
 
 # Regulator Pathway Description
 We plan to pursue the 510(k) Premarket Notification pathway for our product. This best suits our product since it is substantially equivalent to some existing pediatric blood test tubes and related automated specimen-handling devices on the market. This pathway would allow us to demonstrate that our product is at least as safe and effective as a legally marketed device without requiring extensive clinical trials.
 
-# Assembly Instructions
-
+# Overview of R&D Strategy
+1. Bench (Cell Biocompatibility tests, Mechanical Tests, etc.)
+  * Perform **ASTM F1980** to evaluate accelerated aging effects on plastic tube materials and ensure structural integrity over expected shelf life.
+  * Conduct **ISO 10993-5** tests to evaluate the cytotoxicity of materials that come in contact with blood samples.
+  * Carry out **ISO 6710** compatibility testing for sterility to confirm that the product meets requirements for blood specimen collection devices.
+2. Animal
+  * Test the biocompatibility using small animal models to ensure there are no adverse effects when blood collected using these tubes is analyzed.
+3. Human
+  * After approval, conduct clinical simulation to evaluate product performance and ease of use. Monitor technician handling, error rate, and efficiency improvements.
 
 {% include gallery caption="Phone Mount Gallery. (Left: Side of the Phone Mount. Center: Back of the Phone Mount. Right: Sectional View of the Phone Mount to show how the Spring Loaded Knobs and Rotator fit into the Top Clamp)" %}
 
