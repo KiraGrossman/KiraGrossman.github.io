@@ -60,5 +60,5 @@ We plan to pursue the 510(k) Premarket Notification pathway for our product. Thi
 3. Human
   * After approval, conduct clinical simulation to evaluate product performance and ease of use. Monitor technician handling, error rate, and efficiency improvements.
 
-{% include gallery caption="Phone Mount Gallery. (Left: Side of the Phone Mount. Center: Back of the Phone Mount. Right: Sectional View of the Phone Mount to show how the Spring Loaded Knobs and Rotator fit into the Top Clamp)" %}
+{% include gallery caption="Blood Collection TUbe Gallery." %}
 
